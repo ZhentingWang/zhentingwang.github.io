@@ -23,7 +23,7 @@ News
 Publication
 ======
 * [Neural Network Trojans Analysis and Mitigation from the Input Domain](https://arxiv.org/abs/2202.06382)  
-<u>Zhenting Wang</u>, Hailun Ding, Juan Zhai, Shiqing Ma  
+**Zhenting Wang**, Hailun Ding, Juan Zhai, Shiqing Ma  
 arXiv preprint
 
 * [BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning](https://arxiv.org/abs/2205.13383)  
