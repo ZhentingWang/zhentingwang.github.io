@@ -27,15 +27,15 @@ Publication
 arXiv preprint
 
 * [BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning](https://arxiv.org/abs/2205.13383)  
-<u>Zhenting Wang</u>, Juan Zhai, Shiqing Ma  
+**Zhenting Wang**, Juan Zhai, Shiqing Ma  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)
 
 * [Complex Backdoor Detection by Symmetric Feature Differencing](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf)  
-Yingqi Liu, Guangyu Shen, Guanhong Tao, <u>Zhenting Wang</u>, Shiqing Ma, Xiangyu Zhang  
+Yingqi Liu, Guangyu Shen, Guanhong Tao, **Zhenting Wang**, Shiqing Ma, Xiangyu Zhang  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)
 
 * [CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes](https://dl.acm.org/doi/abs/10.1145/3394171.3413945)  
-Wei Li, <u>Zhenting Wang</u>, Xiao Wu, Ji Zhang, Qiang Peng, Hongliang Li  
+Wei Li, **Zhenting Wang**, Xiao Wu, Ji Zhang, Qiang Peng, Hongliang Li  
 Proceedings of the 28th ACM International Conference on Multimedia (ACM MM 2020, Oral, top 7.9%)
 
 Service
