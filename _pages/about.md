@@ -34,7 +34,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)
 Yingqi Liu, Guangyu Shen, Guanhong Tao, **Zhenting Wang**, Shiqing Ma, Xiangyu Zhang  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)
 
-* [Learning Selective Assignment Network for Scene-aware Vehicle Detection](https://zhentingwang.github.io)
+* [Learning Selective Assignment Network for Scene-aware Vehicle Detection](https://zhentingwang.github.io)  
 **Zhenting Wang**, Wei Li, Xiao Wu, Luhan Sheng
 IEEE International Conference on Image Processing 2022 (ICIP 2022)
 
