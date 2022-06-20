@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2022-06] 1 paper is accepted to ICIP 2022.
 * [2022-03] I am invited as a reviewer of NeurIPS 2022.
 * [2022-03] 2 papers are accepted to CVPR 2022.
 * [2022-01] I am invited as a reviewer of ICML 2022.
