@@ -34,6 +34,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)
 Yingqi Liu, Guangyu Shen, Guanhong Tao, **Zhenting Wang**, Shiqing Ma, Xiangyu Zhang  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)
 
+* [Learning Selective Assignment Network for Scene-aware Vehicle Detection](https://zhentingwang.github.io)
+**Zhenting Wang**, Wei Li, Xiao Wu, Luhan Sheng
+IEEE International Conference on Image Processing 2022 (ICIP 2022)
+
 * [CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes](https://dl.acm.org/doi/abs/10.1145/3394171.3413945)  
 Wei Li, **Zhenting Wang**, Xiao Wu, Ji Zhang, Qiang Peng, Hongliang Li  
 Proceedings of the 28th ACM International Conference on Multimedia (ACM MM 2020, Oral, top 7.9%)
