@@ -24,11 +24,11 @@ News
 Publication
 ======
 
-* [Rethinking the Reverse-engineering of Trojan Triggers](https://zhentingwang.github.io/)
+* [Rethinking the Reverse-engineering of Trojan Triggers](https://zhentingwang.github.io/)  
 **Zhenting Wang**, Kai Mei, Hailun Ding, Juan Zhai, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2022 (NeurIPS 2022)
 
-* [Training with More Confidence: Mitigating Injected and Natural Backdoors During Training](https://zhentingwang.github.io/)
+* [Training with More Confidence: Mitigating Injected and Natural Backdoors During Training](https://zhentingwang.github.io/)  
 **Zhenting Wang**, Hailun Ding, Juan Zhai, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2022 (NeurIPS 2022)
 
