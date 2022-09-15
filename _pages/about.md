@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2022-09] 2 papers are accepted to NeurIPS 2022.
 * [2022-03] I am invited as a reviewer of NeurIPS 2022.
 * [2022-03] 2 papers are accepted to CVPR 2022.
 * [2022-01] I am invited as a reviewer of ICML 2022.
@@ -22,9 +23,14 @@ News
 
 Publication
 ======
-* [Neural Network Trojans Analysis and Mitigation from the Input Domain](https://arxiv.org/abs/2202.06382)  
+
+* [Rethinking the Reverse-engineering of Trojan Triggers](https://zhentingwang.github.io/)
+**Zhenting Wang**, Kai Mei, Hailun Ding, Juan Zhai, Shiqing Ma  
+Proceedings of Neural Information Processing Systems 2022 (NeurIPS 2022)
+
+* [Training with More Confidence: Mitigating Injected and Natural Backdoors During Training](https://zhentingwang.github.io/)
 **Zhenting Wang**, Hailun Ding, Juan Zhai, Shiqing Ma  
-arXiv preprint
+Proceedings of Neural Information Processing Systems 2022 (NeurIPS 2022)
 
 * [BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning](https://arxiv.org/abs/2205.13383)  
 **Zhenting Wang**, Juan Zhai, Shiqing Ma  
