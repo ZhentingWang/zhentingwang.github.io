@@ -52,5 +52,4 @@ Service
 ======
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022
 * Reviewer, International Conference on Machine Learning (ICML), 2022
-* Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
