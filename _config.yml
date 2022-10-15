@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhenting Wang"
-  avatar           : #"photo_hq.jpg"
+  avatar           : 
   bio              : "PhD student in CS@Rutgers"
   location         : "Piscataway, NJ 08854"
   employer         :
