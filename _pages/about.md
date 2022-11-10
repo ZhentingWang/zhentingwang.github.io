@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2022-10] Received the NeurIPS 2022 Scholar Award.
 * [2022-09] 2 papers are accepted to NeurIPS 2022.
 * [2022-03] I am invited as a reviewer of NeurIPS 2022.
 * [2022-03] 2 papers are accepted to CVPR 2022.
