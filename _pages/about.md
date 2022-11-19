@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a second-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/).
-* My research interests lie at adversarial machine learning, especially Trojan attacks and defenses on deep neural networks.
+* My research interests lie at adversarial machine learning, especially backdoor attacks and defenses on deep neural networks.
 
 News
 ======
