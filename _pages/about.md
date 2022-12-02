@@ -29,7 +29,7 @@ Preprints
 Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang  
 
 
-Publication
+Publications
 ======
 
 * [Rethinking the Reverse-engineering of Trojan Triggers](https://arxiv.org/abs/2210.15127)  
