@@ -22,13 +22,15 @@ News
 * [2022-01] I am invited as a member of USENIX Security 2022 Artifact Evaluation Committee.
 * [2021-11] I am invited as a reviewer of CVPR 2022.
 
-
-Publication
+Preprint
 ======
 
 * [Backdoor Vulnerabilities in Normally Trained Deep Learning Models](https://arxiv.org/abs/2211.15929)  
 Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang  
-arXiv Preprint
+
+
+Publication
+======
 
 * [Rethinking the Reverse-engineering of Trojan Triggers](https://arxiv.org/abs/2210.15127)  
 **Zhenting Wang**, Kai Mei, Hailun Ding, Juan Zhai, Shiqing Ma  
