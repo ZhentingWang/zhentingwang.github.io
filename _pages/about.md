@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-* [2022-11] I am invited as a reviewer of ICLR 2023 BANDS.
+* [2022-12] I am invited as a reviewer of ICLR 2023 BANDS.
 * [2022-11] I am invited as a reviewer of CVPR 2023.
 * [2022-10] Received the NeurIPS 2022 Scholar Award.
 * [2022-09] 2 papers are accepted to NeurIPS 2022.
