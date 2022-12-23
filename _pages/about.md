@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-* [2022-12] I am invited as a reviewer of KDD 2023.
+* [2022-12] I am invited as a program committee member of KDD 2023.
 * [2022-12] I am invited as a reviewer of ICLR 2023 BANDS.
 * [2022-11] I am invited as a reviewer of CVPR 2023.
 * [2022-10] Received the NeurIPS 2022 Scholar Award.
@@ -60,7 +60,7 @@ Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Or
 
 Service
 ======
-* Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
+* Program Committee Member, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022
