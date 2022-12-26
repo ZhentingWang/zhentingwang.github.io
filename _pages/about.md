@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2022-12] I am invited as a reviewer of ICML 2023.
 * [2022-12] I am invited as a program committee member (reviewer) of KDD 2023.
 * [2022-12] I am invited as a reviewer of ICLR 2023 BANDS.
 * [2022-11] I am invited as a reviewer of CVPR 2023.
@@ -64,5 +65,5 @@ Service
 * Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022
-* Reviewer, International Conference on Machine Learning (ICML), 2022
+* Reviewer, International Conference on Machine Learning (ICML), 2022, 2023
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
