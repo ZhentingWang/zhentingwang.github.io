@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-* [2023-01] 1 paper is selected as the spotlight by ICLR 2023.
+* [2023-01] 1 paper is selected as the <font color=red>spotlight</font> by ICLR 2023.
 * [2023-01] I am invited as a program committee member (reviewer) of IJCAI 2023.
 * [2022-12] I am invited as a reviewer of ICML 2023.
 * [2022-12] I am invited as a program committee member (reviewer) of KDD 2023.
