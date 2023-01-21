@@ -39,7 +39,7 @@ Publications
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://zhentingwang.github.io)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
-International Conference on Learning Representations 2023 (**ICLR 2023**)
+International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight</font>**)
 
 * [Rethinking the Reverse-engineering of Trojan Triggers](https://arxiv.org/abs/2210.15127)  
 **Zhenting Wang**, Kai Mei, Hailun Ding, Juan Zhai, Shiqing Ma  
