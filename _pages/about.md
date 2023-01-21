@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2023-01] 1 paper is selected as the spotlight by ICLR 2023.
 * [2023-01] I am invited as a program committee member (reviewer) of IJCAI 2023.
 * [2022-12] I am invited as a reviewer of ICML 2023.
 * [2022-12] I am invited as a program committee member (reviewer) of KDD 2023.
@@ -35,6 +36,10 @@ Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi L
 
 Publications
 ======
+
+* [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://zhentingwang.github.io)  
+**Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
+International Conference on Learning Representations 2023 (**ICLR 2023**)
 
 * [Rethinking the Reverse-engineering of Trojan Triggers](https://arxiv.org/abs/2210.15127)  
 **Zhenting Wang**, Kai Mei, Hailun Ding, Juan Zhai, Shiqing Ma  
