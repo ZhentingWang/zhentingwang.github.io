@@ -70,7 +70,7 @@ Service
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
-* Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
-* Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 * Program Committee Member/Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
+* Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
+* Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
