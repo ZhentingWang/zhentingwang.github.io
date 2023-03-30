@@ -13,7 +13,10 @@ redirect_from:
 
 News
 ======
+* [2023-03] I am invited as a reviewer of NeurIPS 2023.
+* [2023-02] Received the ICLR 2023 Financial Assistance Award.
 * [2023-02] I am invited as a reviewer of ICCV 2023.
+* [2023-02] I will be an AI Research Intern at Sony AI for summer 2023 working with [Dr. Lingjuan Lyv](https://sites.google.com/view/lingjuan-lyu/home).
 * [2023-01] 1 paper is selected as the <font color=red>spotlight</font> by ICLR 2023.
 * [2023-01] I am invited as a program committee member (reviewer) of IJCAI 2023.
 * [2022-12] I am invited as a reviewer of ICML 2023.
@@ -69,7 +72,7 @@ Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Or
 Service
 ======
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023
-* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022
+* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Program Committee Member/Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
