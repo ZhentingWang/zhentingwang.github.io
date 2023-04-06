@@ -69,13 +69,6 @@ IEEE International Conference on Image Processing 2022 (**ICIP 2022**)
 Wei Li, **Zhenting Wang**, Xiao Wu, Ji Zhang, Qiang Peng, Hongliang Li  
 Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Oral**)
 
-Teaching
-======
-* Guest Lecture, CS 431: Software Engineering, Rutgers University, Spring 2023
-* Teaching Assistant, CS 431: Software Engineering, Rutgers University, Spring 2023
-* Teaching Assistant, CS 205: Introduction to Discrete Structures, Rutgers University, Fall 2022
-
-
 Service
 ======
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023
@@ -86,3 +79,9 @@ Service
 * Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 * Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
+
+Teaching
+======
+* Guest Lecture, CS 431: Software Engineering, Rutgers University, Spring 2023
+* Teaching Assistant, CS 431: Software Engineering, Rutgers University, Spring 2023
+* Teaching Assistant, CS 205: Introduction to Discrete Structures, Rutgers University, Fall 2022
