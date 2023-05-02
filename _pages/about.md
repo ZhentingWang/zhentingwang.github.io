@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2022-05] 1 paper is accepted to ACL 2023.
 * [2023-03] I am invited as a reviewer of NeurIPS 2023.
 * [2023-02] Received the ICLR 2023 Financial Assistance Award.
 * [2023-02] I am invited as a reviewer of ICCV 2023.
@@ -44,6 +45,10 @@ Publications
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://zhentingwang.github.io)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
 International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight</font>**)
+
+* [NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models](https://zhentingwang.github.io)  
+Kai Mei, Zheng Li, **Zhenting Wang**, Yang Zhang and Shiqing Ma
+Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023**)
 
 * [Rethinking the Reverse-engineering of Trojan Triggers](https://arxiv.org/abs/2210.15127)  
 **Zhenting Wang**, Kai Mei, Hailun Ding, Juan Zhai, Shiqing Ma  
