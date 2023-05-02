@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-* [2022-05] 1 paper is accepted to ACL 2023.
+* [2023-05] 1 paper is accepted to ACL 2023.
 * [2023-03] I am invited as a reviewer of NeurIPS 2023.
 * [2023-02] Received the ICLR 2023 Financial Assistance Award.
 * [2023-02] I am invited as a reviewer of ICCV 2023.
