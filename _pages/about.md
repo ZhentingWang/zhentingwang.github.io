@@ -45,11 +45,11 @@ Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi L
 Publications
 ======
 
-* [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://zhentingwang.github.io)  
+* [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
 International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight</font>**)
 
-* [NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models](https://zhentingwang.github.io)  
+* [NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models](https://arxiv.org/abs/2305.17826)  
 Kai Mei, Zheng Li, **Zhenting Wang**, Yang Zhang, Shiqing Ma  
 Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023**)
 
