@@ -35,6 +35,9 @@ News
 Preprints
 ======
 
+* [Alteration-free and Model-agnostic Origin Attribution of Generated Images](https://arxiv.org/abs/2305.18439)  
+**Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma  
+
 * [Backdoor Vulnerabilities in Normally Trained Deep Learning Models](https://arxiv.org/abs/2211.15929)  
 Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang  
 
