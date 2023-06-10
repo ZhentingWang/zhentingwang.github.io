@@ -13,11 +13,12 @@ redirect_from:
 
 News
 ======
+* [2023-06] I am invited as a reviewer of IEEE T-IFS.
 * [2023-05] 1 paper is accepted to ACL 2023.
 * [2023-03] I am invited as a reviewer of NeurIPS 2023.
 * [2023-02] Received the ICLR 2023 Financial Assistance Award.
 * [2023-02] I am invited as a reviewer of ICCV 2023.
-* [2023-02] I will be an AI Research Intern at Sony AI for summer 2023 working with [Dr. Lingjuan Lyv](https://sites.google.com/view/lingjuan-lyu/home).
+* [2023-02] I will be an AI Research Intern at Sony AI for summer 2023 working with [Dr. Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home).
 * [2023-01] 1 paper is selected as the <font color=red>spotlight</font> by ICLR 2023.
 * [2023-01] I am invited as a program committee member (reviewer) of IJCAI 2023.
 * [2022-12] I am invited as a reviewer of ICML 2023.
@@ -85,8 +86,9 @@ Service
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Program Committee Member/Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
-* Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
+* Program Committee Member/Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
+* Reviewer, IEEE Transactions on Information Forensics & Security (IEEE T-IFS)
 
 Teaching
 ======
