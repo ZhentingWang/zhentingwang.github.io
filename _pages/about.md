@@ -36,6 +36,9 @@ News
 Preprints
 ======
 
+* [How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models](https://arxiv.org/abs/2307.03108)  
+**Zhenting Wang**, Chen Chen, Yuchen Liu, Lingjuan Lyu, Dimitris Metaxas, Shiqing Ma  
+
 * [Alteration-free and Model-agnostic Origin Attribution of Generated Images](https://arxiv.org/abs/2305.18439)  
 **Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma  
 
