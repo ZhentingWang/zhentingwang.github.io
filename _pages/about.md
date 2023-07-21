@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a second-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/).
+* I am a second-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/) and Prof. [Dimitris Metaxas].
 * My research interests lie at security of machine learning (especially backdoor attacks and defenses on computer vision and natural language processing models), and IP (intellectual property) protection for generative models.
 
 News
@@ -51,7 +51,7 @@ Publications
 ======
 
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://zhentingwang.github.io/)  
-Guanhong Tao*, **Zhenting Wang***, Shiwei Feng, Guangyu Shen, Shiqing Ma, Xiangyu Zhang  
+Guanhong Tao*, **Zhenting Wang** *, Shiwei Feng, Guangyu Shen, Shiqing Ma, Xiangyu Zhang  
 IEEE Symposiums on Security and Privacy 2024 (**Oakland 2024, * indicates equal contribution**)
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
