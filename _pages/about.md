@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a second-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/) and Prof. [Dimitris Metaxas](https://people.cs.rutgers.edu/~dnm/).
+* I am a second-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/).
 * My research interests lie at security of machine learning (especially backdoor attacks and defenses on computer vision and natural language processing models), and IP (intellectual property) protection for generative models.
 
 News
