@@ -52,7 +52,8 @@ Publications
 
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://zhentingwang.github.io/)  
 Guanhong Tao *, **Zhenting Wang** *, Shiwei Feng, Guangyu Shen, Shiqing Ma, Xiangyu Zhang  
-IEEE Symposiums on Security and Privacy 2024 (**Oakland 2024, * indicates equal contribution**)
+IEEE Symposiums on Security and Privacy 2024  
+(**Oakland 2024, * indicates equal contribution**)
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
