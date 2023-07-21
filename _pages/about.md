@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2023-07] 1 paper is accepted to IEEE S&P (Oakland) 2024.
 * [2023-06] I am invited as a reviewer of IEEE T-IFS.
 * [2023-05] 1 paper is accepted to ACL 2023.
 * [2023-03] I am invited as a reviewer of NeurIPS 2023.
@@ -48,6 +49,10 @@ Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi L
 
 Publications
 ======
+
+* [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://zhentingwang.github.io/)  
+Guanhong Tao*, **Zhenting Wang***, Shiwei Feng, Guangyu Shen, Shiqing Ma, Xiangyu Zhang
+IEEE Symposiums on Security and Privacy (**Oakland 2024, * indicates equal contribution**)
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
