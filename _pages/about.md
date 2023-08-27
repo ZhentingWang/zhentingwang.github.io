@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-* I am a second-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/).
+* I am a third-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/) and Prof. [Dimitris Metaxas](https://people.cs.rutgers.edu/~dnm/).
 * My research interests lie at security of machine learning (especially backdoor attacks and defenses on computer vision and natural language processing models), and IP (intellectual property) protection for generative models.
 
 News
 ======
+* [2023-08] I am invited as a reviewer of ICLR 2024.
 * [2023-07] 1 paper is accepted to IEEE S&P (Oakland) 2024.
 * [2023-06] I am invited as a reviewer of IEEE T-IFS.
 * [2023-05] 1 paper is accepted to ACL 2023.
@@ -89,6 +90,7 @@ Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Or
 
 Service
 ======
+* Reviewer, International Conference on Learning Representations (ICLR), 2024
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
