@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2023-09] I am invited as a reviewer of SDM 2024.
 * [2023-08] I am invited as a reviewer of ICLR 2024.
 * [2023-07] 1 paper is accepted to IEEE S&P (Oakland) 2024.
 * [2023-06] I am invited as a reviewer of IEEE T-IFS.
@@ -97,6 +98,7 @@ Service
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Program Committee Member/Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
+* Program Committee Member/Reviewer, SIAM International Conference on Data Mining (SDM), 2024
 * Program Committee Member/Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
 * Reviewer, IEEE Transactions on Information Forensics & Security (IEEE T-IFS)
