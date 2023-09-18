@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2023-09] I am invited as a reviewer of NeurIPS 2023 BUGS.
 * [2023-09] I am invited as a reviewer of SDM 2024.
 * [2023-08] I am invited as a reviewer of ICLR 2024.
 * [2023-07] 1 paper is accepted to IEEE S&P (Oakland) 2024.
@@ -100,6 +101,7 @@ Service
 * Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 * Program Committee Member/Reviewer, SIAM International Conference on Data Mining (SDM), 2024
 * Program Committee Member/Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
+* Program Committee Member/Reviewer, Backdoors in Deep Learning - The Good, the Bad, and the Ugly (BUGS) at NeurIPS 2023
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
 * Reviewer, IEEE Transactions on Information Forensics & Security (IEEE T-IFS)
 
