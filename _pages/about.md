@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2023-09] 1 paper is accepted to NeurIPS 2023.
 * [2023-09] I am invited as a reviewer of NeurIPS 2023 BUGS.
 * [2023-09] I am invited as a reviewer of SDM 2024.
 * [2023-08] I am invited as a reviewer of ICLR 2024.
@@ -43,9 +44,6 @@ Preprints
 * [How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models](https://arxiv.org/abs/2307.03108)  
 **Zhenting Wang**, Chen Chen, Yuchen Liu, Lingjuan Lyu, Dimitris Metaxas, Shiqing Ma  
 
-* [Alteration-free and Model-agnostic Origin Attribution of Generated Images](https://arxiv.org/abs/2305.18439)  
-**Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma  
-
 * [Backdoor Vulnerabilities in Normally Trained Deep Learning Models](https://arxiv.org/abs/2211.15929)  
 Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang  
 
@@ -57,6 +55,10 @@ Publications
 Guanhong Tao*,**Zhenting Wang** *,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
 IEEE Symposiums on Security and Privacy 2024  
 (**Oakland 2024, * indicates equal contribution**)
+
+* [Where Did I Come From? Origin Attribution of AI-Generated Images](https://zhentingwang.github.io/)  
+**Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma
+Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
