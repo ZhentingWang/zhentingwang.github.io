@@ -57,7 +57,7 @@ IEEE Symposiums on Security and Privacy 2024
 (**Oakland 2024, * indicates equal contribution**)
 
 * [Where Did I Come From? Origin Attribution of AI-Generated Images](https://zhentingwang.github.io/)  
-**Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma
+**Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
