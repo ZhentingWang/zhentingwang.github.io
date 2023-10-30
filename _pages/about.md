@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2023-10] I am invited as a reviewer of CVPR 2024.
 * [2023-09] 1 paper is accepted to NeurIPS 2023.
 * [2023-09] I am invited as a reviewer of NeurIPS 2023 BUGS.
 * [2023-09] I am invited as a reviewer of SDM 2024.
@@ -97,7 +98,7 @@ Service
 * Reviewer, International Conference on Learning Representations (ICLR), 2024
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023
-* Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+* Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Program Committee Member/Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
