@@ -13,13 +13,14 @@ redirect_from:
 
 News
 ======
+* [2023-11] I am invited as a reviewer of ACM-TKDD.
 * [2023-10] I am invited as a reviewer of CVPR 2024.
 * [2023-09] 1 paper is accepted to NeurIPS 2023.
 * [2023-09] I am invited as a reviewer of NeurIPS 2023 BUGS.
 * [2023-09] I am invited as a reviewer of SDM 2024.
 * [2023-08] I am invited as a reviewer of ICLR 2024.
 * [2023-07] 1 paper is accepted to IEEE S&P (Oakland) 2024.
-* [2023-06] I am invited as a reviewer of IEEE T-IFS.
+* [2023-06] I am invited as a reviewer of IEEE TIFS.
 * [2023-05] 1 paper is accepted to ACL 2023.
 * [2023-03] I am invited as a reviewer of NeurIPS 2023.
 * [2023-02] Received the ICLR 2023 Financial Assistance Award.
@@ -106,7 +107,8 @@ Service
 * Program Committee Member/Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Program Committee Member/Reviewer, Backdoors in Deep Learning - The Good, the Bad, and the Ugly (BUGS) at NeurIPS 2023
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
-* Reviewer, IEEE Transactions on Information Forensics & Security (IEEE T-IFS)
+* Reviewer, IEEE Transactions on Information Forensics & Security (IEEE TIFS)
+* Reviewer, ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
 
 Teaching
 ======
