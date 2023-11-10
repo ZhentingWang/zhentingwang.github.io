@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-* [2023-11] I am invited as a reviewer of ACM-TKDD.
+* [2023-11] I am invited as a reviewer of ACM TKDD.
 * [2023-10] I am invited as a reviewer of CVPR 2024.
 * [2023-09] 1 paper is accepted to NeurIPS 2023.
 * [2023-09] I am invited as a reviewer of NeurIPS 2023 BUGS.
