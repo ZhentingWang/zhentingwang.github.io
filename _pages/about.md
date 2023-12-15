@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 * I am a third-year PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/) and Prof. [Dimitris Metaxas](https://people.cs.rutgers.edu/~dnm/).
-* My research interests lie at security of machine learning (especially backdoor attacks and defenses on computer vision and natural language processing models), and IP (intellectual property) protection for generative models.
+* My research interests lie at trustworthy machine learning, especially responsible GAI (generative artificial intelligence) and backdoor attacks\&defenses.
 
 News
 ======
+* [2023-12] I am invited as a reviewer of ICML 2024.
 * [2023-11] I am invited as a reviewer of ACM TKDD.
 * [2023-10] I am invited as a reviewer of CVPR 2024.
 * [2023-09] 1 paper is accepted to NeurIPS 2023.
@@ -97,7 +98,7 @@ Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Or
 Service
 ======
 * Reviewer, International Conference on Learning Representations (ICLR), 2024
-* Reviewer, International Conference on Machine Learning (ICML), 2022, 2023
+* Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
