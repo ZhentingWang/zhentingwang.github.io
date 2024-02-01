@@ -54,7 +54,8 @@ Publications
 ======
 
 * [DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models](https://zhentingwang.github.io/).  
-**Zhenting Wang**, Chen Chen, Lingjuan Lyu, Dimitris Metaxas, Shiqing Ma  
+**Zhenting Wang**, Chen Chen, Lingjuan Lyu, Dimitris Metaxas, Shiqing Ma
+International Conference on Learning Representations 2024 (**ICLR 2024**)
 
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://zhentingwang.github.io/)  
 Guanhong Tao*,**Zhenting Wang** *,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
