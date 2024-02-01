@@ -13,6 +13,8 @@ redirect_from:
 
 News
 ======
+* [2024-01] 1 paper is accepted to ICLR 2024.
+* [2024-01] I am invited as a reviewer of ECCV 2024.
 * [2023-12] I am invited as a reviewer of ICML 2024.
 * [2023-11] I am invited as a reviewer of ACM TKDD.
 * [2023-10] I am invited as a reviewer of CVPR 2024.
@@ -44,15 +46,15 @@ News
 Preprints
 ======
 
-* [How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models](https://arxiv.org/abs/2307.03108)  
-**Zhenting Wang**, Chen Chen, Yuchen Liu, Lingjuan Lyu, Dimitris Metaxas, Shiqing Ma  
-
 * [Backdoor Vulnerabilities in Normally Trained Deep Learning Models](https://arxiv.org/abs/2211.15929)  
 Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang  
 
 
 Publications
 ======
+
+* [DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models](https://zhentingwang.github.io/).  
+**Zhenting Wang**, Chen Chen, Lingjuan Lyu, Dimitris Metaxas, Shiqing Ma  
 
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://zhentingwang.github.io/)  
 Guanhong Tao*,**Zhenting Wang** *,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
@@ -102,6 +104,7 @@ Service
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
+* Reviewer, European Conference on Computer Vision (ECCV), 2024
 * Program Committee Member/Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 * Program Committee Member/Reviewer, SIAM International Conference on Data Mining (SDM), 2024
