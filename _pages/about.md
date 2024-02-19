@@ -106,18 +106,20 @@ Service
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
-* Program Committee Member/Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
-* Program Committee Member/Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
-* Program Committee Member/Reviewer, SIAM International Conference on Data Mining (SDM), 2024
-* Program Committee Member/Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
-* Program Committee Member/Reviewer, Backdoors in Deep Learning - The Good, the Bad, and the Ugly (BUGS) at NeurIPS 2023
-* Artifact Evaluation Committee, USENIX Security Symposium, 2022
+* Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
+* Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
+* Reviewer, SIAM International Conference on Data Mining (SDM), 2024
+* Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
+* Reviewer, Backdoors in Deep Learning - The Good, the Bad, and the Ugly (BUGS) at NeurIPS 2023
 * Reviewer, IEEE Transactions on Information Forensics & Security (IEEE TIFS)
 * Reviewer, ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
+* Artifact Evaluation Committee, USENIX Security Symposium, 2022
+* Sub-reviewer, ACM Conference on Computer and Communications Security (CCS), 2022, 2023, 2024
+* Sub-reviewer, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
 
 Teaching
 ======
 * Guest Lecture, CS 431: Software Engineering, Rutgers University, Spring 2023
 * Teaching Assistant, CS 213: Software Methodology, Rutgers University, Fall 2023
 * Teaching Assistant, CS 431: Software Engineering, Rutgers University, Spring 2023
-* Teaching Assistant, CS 205: Introduction to Discrete Structures, Rutgers University, Fall 2022
+* Teaching Assistant, CS 205: Introduction to Discrete Structures, Rutgers University, Fall 2022, Spring 2024
