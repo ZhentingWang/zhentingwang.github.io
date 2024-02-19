@@ -120,6 +120,6 @@ Service
 Teaching
 ======
 * Guest Lecture, CS 431: Software Engineering, Rutgers University, Spring 2023
+* Teaching Assistant, CS 205: Introduction to Discrete Structures, Rutgers University, Fall 2022, Spring 2024
 * Teaching Assistant, CS 213: Software Methodology, Rutgers University, Fall 2023
 * Teaching Assistant, CS 431: Software Engineering, Rutgers University, Spring 2023
-* Teaching Assistant, CS 205: Introduction to Discrete Structures, Rutgers University, Fall 2022, Spring 2024
