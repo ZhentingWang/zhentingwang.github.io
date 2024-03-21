@@ -61,7 +61,7 @@ Publications
 International Conference on Learning Representations 2024 (**ICLR 2024**)
 
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://zhentingwang.github.io/)  
-Guanhong Tao*,**Zhenting Wang***,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
+Guanhong Tao*,<b>Zhenting Wang</b>*,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
 IEEE Symposiums on Security and Privacy 2024  
 (**Oakland 2024, * indicates equal contribution**)
 
