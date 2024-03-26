@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://www.cs.rutgers.edu/~sm2283/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/).
-* My research interests lie at trustworthy machine learning, especially responsible GAI (generative artificial intelligence) and backdoor attacks&defenses.
+* My research interests lie at trustworthy machine learning, especially safe and responsible GAI (generative artificial intelligence).
 
 News
 ======
