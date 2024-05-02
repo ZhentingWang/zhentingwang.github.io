@@ -13,6 +13,8 @@ redirect_from:
 
 News
 ======
+* [2024-05] 1 paper is accepted to ICML 2024.
+* [2024-04] I am invited as a reviewer of NeurIPS 2024 Dataset and Benchmark Track.
 * [2024-01] 1 paper is accepted to ICLR 2024.
 * [2024-01] I am invited as a reviewer of ECCV 2024.
 * [2023-12] I am invited as a reviewer of ICML 2024.
@@ -63,6 +65,10 @@ Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi L
 
 Publications
 ======
+
+* [How to Trace Latent Generative Model Generated Images without Artificial Watermark?](https://zhentingwang.github.io/)  
+**Zhenting Wang**, Vikash Sehwag, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma  
+International Conference on Machine Learning 2024 (**ICML 2024**)
 
 * [DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models](https://zhentingwang.github.io/)  
 **Zhenting Wang**, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma  
@@ -120,6 +126,7 @@ Service
 * Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 * Reviewer, SIAM International Conference on Data Mining (SDM), 2024
+* Reviewer, NeurIPS Dataset and Benchmark Track, 2024
 * Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Reviewer, Backdoors in Deep Learning - The Good, the Bad, and the Ugly (BUGS) at NeurIPS 2023
 * Reviewer, IEEE Transactions on Information Forensics & Security (IEEE TIFS)
