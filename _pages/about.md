@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2024-05] I am invited as a reviewer of NeurIPS 2024.
 * [2024-05] 1 paper is accepted to ICML 2024.
 * [2024-04] I am invited as a reviewer of NeurIPS 2024 Dataset and Benchmark Track.
 * [2024-01] 1 paper is accepted to ICLR 2024.
@@ -119,7 +120,7 @@ Service
 ======
 * Reviewer, International Conference on Learning Representations (ICLR), 2024
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024
-* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023
+* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
