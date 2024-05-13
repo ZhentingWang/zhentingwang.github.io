@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a PhD student in [Computer Science department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I am a research intern at [Sony AI](https://ai.sony/), and will join [Meta GenAI](https://ai.meta.com/) as a research scientist intern in 2024 Summer.
-* My research interests lie at trustworthy machine learning, especially safe and responsible GAI (generative artificial intelligence).
+* My research interests lie at trustworthy machine learning, especially safe and responsible generative artificial intelligence (e.g., Large (Vision-)Language Model and Diffusion Model).
 
 News
 ======
