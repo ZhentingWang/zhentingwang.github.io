@@ -100,7 +100,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022
 * [Backdoor Vulnerabilities in Normally Trained Deep Learning Models](https://arxiv.org/abs/2211.15929)  
 Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang (Preprint)
 
-### Large Language Model Application
+### Application of Large Language Models
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang (Preprint)
