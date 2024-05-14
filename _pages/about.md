@@ -67,7 +67,7 @@ Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi L
 Publications
 ======
 
-# Publications
+## Publications
 
 * [How to Trace Latent Generative Model Generated Images without Artificial Watermark?](https://zhentingwang.github.io/)  
 **Zhenting Wang**, Vikash Sehwag, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma  
