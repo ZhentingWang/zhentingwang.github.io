@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2024-07] 1 paper is accepted to ECCV 2024. Congrates to Minzhou!
 * [2024-05] I am invited as a reviewer of NeurIPS 2024.
 * [2024-05] 1 paper is accepted to ICML 2024.
 * [2024-04] I am invited as a reviewer of NeurIPS 2024 Dataset and Benchmark Track.
@@ -64,7 +65,11 @@ International Conference on Learning Representations 2024 (**ICLR 2024**)
 Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 
 * [Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection](https://arxiv.org/pdf/2403.15955.pdf)  
-Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin (Preprint)
+Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin (**ECCV 2024**)
+
+* [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
+**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu (Preprint)
+
 
 ### AI Security
 
