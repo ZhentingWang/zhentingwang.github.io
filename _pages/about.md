@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* [2024-07] 1 paper is accepted to COLM 2024. Congrates to Mingyu and Haochen!
 * [2024-07] 1 paper is accepted to ECCV 2024. Congrates to Minzhou!
 * [2024-05] I am invited as a reviewer of NeurIPS 2024.
 * [2024-05] 1 paper is accepted to ICML 2024.
@@ -108,7 +109,8 @@ Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi L
 ### Large Language Models
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
-Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang (Preprint)
+Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang
+Conference on Language Modeling 2024 (**COLM 2024**)
 
 * [Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model](https://arxiv.org/abs/2402.00746)  
 Mingyu Jin, Qinkai Yu, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, Yanda Meng, **Zhenting Wang**, Mengnan Du, Yongfeng Zhang (Preprint)
