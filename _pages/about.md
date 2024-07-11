@@ -110,7 +110,7 @@ Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi L
 ### Large Language Models
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
-Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang
+Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
 Conference on Language Modeling 2024 (**COLM 2024**)
 
 * [Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model](https://arxiv.org/abs/2402.00746)  
