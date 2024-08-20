@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* [2024-08] 1 paper is accepted to ACSAC 2024.
 * [2024-08] I am invited as a reviewer of ICLR 2025.
 * [2024-07] I am invited as a reviewer of AAAI 2025.
 * [2024-07] 1 paper is accepted to COLM 2024. Congrates to Mingyu and Haochen!
@@ -69,13 +70,12 @@ International Conference on Learning Representations 2024 (**ICLR 2024**)
 **Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 
+* [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
+**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu (Preprint)
+  
 * [Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection](https://arxiv.org/pdf/2403.15955.pdf)  
 Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin  
 European Conference on Computer Vision 2024 (**ECCV 2024**)
-
-* [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
-**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu (Preprint)
-
 
 ### AI Security
 
@@ -87,10 +87,6 @@ IEEE Symposiums on Security and Privacy 2024
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
 International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight</font>**)
-
-* [NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models](https://arxiv.org/abs/2305.17826)  
-Kai Mei, Zheng Li, **Zhenting Wang**, Yang Zhang, Shiqing Ma  
-Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023**)
 
 * [Rethinking the Reverse-engineering of Trojan Triggers](https://arxiv.org/abs/2210.15127)  
 **Zhenting Wang**, Kai Mei, Hailun Ding, Juan Zhai, Shiqing Ma  
@@ -104,12 +100,16 @@ Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
 **Zhenting Wang**, Juan Zhai, Shiqing Ma  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022**)
 
+* [Backdoor Attacks without Poisoning](https://arxiv.org/abs/2211.15929)  
+Guanhong Tao, Siyuan Cheng, **Zhenting Wang**, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang (ACSAC 2024)
+
+* [NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models](https://arxiv.org/abs/2305.17826)  
+Kai Mei, Zheng Li, **Zhenting Wang**, Yang Zhang, Shiqing Ma  
+Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023**)
+
 * [Complex Backdoor Detection by Symmetric Feature Differencing](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf)  
 Yingqi Liu, Guangyu Shen, Guanhong Tao, **Zhenting Wang**, Shiqing Ma, Xiangyu Zhang  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022**)
-
-* [Backdoor Vulnerabilities in Normally Trained Deep Learning Models](https://arxiv.org/abs/2211.15929)  
-Guanhong Tao, **Zhenting Wang**, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang (Preprint)
 
 ### Large Language Models
 
