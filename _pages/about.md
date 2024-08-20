@@ -117,17 +117,17 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
 Conference on Language Modeling 2024 (**COLM 2024**)
 
-* [Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model](https://arxiv.org/abs/2402.00746)  
-Mingyu Jin, Qinkai Yu, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, Yanda Meng, **Zhenting Wang**, Mengnan Du, Yongfeng Zhang (Preprint)
-
-* [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
-Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang (Preprint)
-
 * [APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)   
 Can Jin, Hongwu Peng, Shiyu Zhao, **Zhenting Wang**, Wujiang Xu, Ligong Han, Jiahui Zhao, Kai Zhong, Sanguthevar Rajasekaran, Dimitris N. Metaxas (Preprint)
 
 * [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
 Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu (Preprint)
+
+* [Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model](https://arxiv.org/abs/2402.00746)  
+Mingyu Jin, Qinkai Yu, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, Yanda Meng, **Zhenting Wang**, Mengnan Du, Yongfeng Zhang (Preprint)
+
+* [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
+Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang (Preprint)
 
 ### Computer Vision
 
