@@ -11,6 +11,8 @@ redirect_from:
 * I am a PhD student in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I am a research scientist intern at [Meta GenAI](https://ai.meta.com/), and was a research intern at [Sony AI](https://ai.sony/).
 * My research interests lie at trustworthy machine learning, especially safe and responsible generative artificial intelligence (e.g., Large (Vision-)Language Model and Diffusion Model).
 
+$\color{#FF0000}{I am actively searching for the full-time research/applied scientist/engineer position.}
+
 News
 ======
 * [2024-07] 1 paper is accepted to COLM 2024. Congrates to Mingyu and Haochen!
