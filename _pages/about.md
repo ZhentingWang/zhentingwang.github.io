@@ -143,6 +143,7 @@ Service
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
 * Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
+* Reviewer, Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 * Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 * Reviewer, SIAM International Conference on Data Mining (SDM), 2024
 * Reviewer, NeurIPS Dataset and Benchmark Track, 2024
