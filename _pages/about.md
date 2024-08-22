@@ -111,7 +111,7 @@ Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023
 Yingqi Liu, Guangyu Shen, Guanhong Tao, **Zhenting Wang**, Shiqing Ma, Xiangyu Zhang  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022**)
 
-* [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)
+* [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)  
 Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen (Preprint)
 
 ### Large Language Models
