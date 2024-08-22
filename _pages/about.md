@@ -58,15 +58,15 @@ Publications
 
 ### Responsible Generative AI
 
-* [How to Trace Latent Generative Model Generated Images without Artificial Watermark?](https://zhentingwang.github.io/)  
+* [How to Trace Latent Generative Model Generated Images without Artificial Watermark?](https://arxiv.org/pdf/2405.13360)  
 **Zhenting Wang**, Vikash Sehwag, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma  
 International Conference on Machine Learning 2024 (**ICML 2024**)
 
-* [DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models](https://zhentingwang.github.io/)  
+* [DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models](https://arxiv.org/pdf/2307.03108)  
 **Zhenting Wang**, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma  
 International Conference on Learning Representations 2024 (**ICLR 2024**)
 
-* [Where Did I Come From? Origin Attribution of AI-Generated Images](https://zhentingwang.github.io/)  
+* [Where Did I Come From? Origin Attribution of AI-Generated Images](https://proceedings.neurips.cc/paper_files/paper/2023/file/ebb4c188fafe7da089b41a9f615ad84d-Paper-Conference.pdf)  
 **Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 
@@ -79,7 +79,7 @@ European Conference on Computer Vision 2024 (**ECCV 2024**)
 
 ### AI Security
 
-* [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://zhentingwang.github.io/)  
+* [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://www.cs.purdue.edu/homes/taog/docs/SP24.pdf)  
 Guanhong Tao*,**Zhenting Wang**\*,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
 IEEE Symposiums on Security and Privacy 2024  
 (**Oakland 2024, * indicates equal contribution**)
