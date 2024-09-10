@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* [2024-09] 1 paper is accepted to S&P (Oakland) 2025.
 * [2024-08] 1 paper is accepted to ACSAC 2024.
 * [2024-08] I am invited as a reviewer of ICLR 2025.
 * [2024-07] I am invited as a reviewer of AAAI 2025.
@@ -32,7 +33,7 @@ News
 * [2023-09] I am invited as a reviewer of NeurIPS 2023 BUGS.
 * [2023-09] I am invited as a reviewer of SDM 2024.
 * [2023-08] I am invited as a reviewer of ICLR 2024.
-* [2023-07] 1 paper is accepted to IEEE S&P (Oakland) 2024.
+* [2023-07] 1 paper is accepted to S&P (Oakland) 2024.
 * [2023-06] I am invited as a reviewer of IEEE TIFS.
 * [2023-05] 1 paper is accepted to ACL 2023.
 * [2023-03] I am invited as a reviewer of NeurIPS 2023.
@@ -72,6 +73,10 @@ Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 
 * [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
 **Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu (Preprint)
+
+* [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://zhentingwang.github.io/)  
+Boheng Li, Yanhao Wei, Yankai Fu, **Zhenting Wang**, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang  
+IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
   
 * [Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection](https://arxiv.org/pdf/2403.15955.pdf)  
 Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin  
@@ -82,7 +87,7 @@ European Conference on Computer Vision 2024 (**ECCV 2024**)
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://www.cs.purdue.edu/homes/taog/docs/SP24.pdf)  
 Guanhong Tao*,**Zhenting Wang**\*,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
 IEEE Symposiums on Security and Privacy 2024  
-(**Oakland 2024, * indicates equal contribution**)
+(**S&P 2024, * indicates equal contribution**)
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
