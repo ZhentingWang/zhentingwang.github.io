@@ -163,6 +163,7 @@ Service
 * Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Reviewer, Backdoors in Deep Learning - The Good, the Bad, and the Ugly (BUGS) at NeurIPS 2023
 * Reviewer, IEEE Transactions on Information Forensics & Security (IEEE TIFS)
+* Reviewer, IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 * Reviewer, ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
 * Sub-reviewer, ACM Conference on Computer and Communications Security (CCS), 2022, 2023, 2024
