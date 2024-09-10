@@ -15,7 +15,7 @@ redirect_from:
 
 News
 ======
-* [2024-09] 1 paper is accepted to S&P (Oakland) 2025.
+* [2024-09] 1 paper is accepted to S&P (Oakland) 2025. Congrates to Boheng!
 * [2024-08] 1 paper is accepted to ACSAC 2024.
 * [2024-08] I am invited as a reviewer of ICLR 2025.
 * [2024-07] I am invited as a reviewer of AAAI 2025.
