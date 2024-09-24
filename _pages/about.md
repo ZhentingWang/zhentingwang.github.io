@@ -126,7 +126,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022
 * [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)  
 Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen (Preprint)
 
-### Large Language Models
+### (Multimodal) Large Language Models
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
