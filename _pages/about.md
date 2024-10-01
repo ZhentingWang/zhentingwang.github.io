@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* [2024-10] I am invited as a reviewer of AISTATS 2025.
 * [2024-09] 1 paper is accepted to S&P (Oakland) 2025. Congrates to Boheng!
 * [2024-08] 1 paper is accepted to ACSAC 2024.
 * [2024-08] I am invited as a reviewer of ICLR 2025.
@@ -162,6 +163,7 @@ Service
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
+* Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 * Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Reviewer, Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 * Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
