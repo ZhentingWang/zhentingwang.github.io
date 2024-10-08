@@ -112,7 +112,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022
 * [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/pdf/2405.14672)  
 Hanrong Zhang*, **Zhenting Wang**\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma (Preprint, * indicates equal contribution)
 
-* [Backdoor Attacks without Poisoning](https://arxiv.org/abs/2211.15929)  
+* [Exploring Inherent Backdoors in Deep Learning Models](https://arxiv.org/abs/2211.15929)  
 Guanhong Tao, Siyuan Cheng, **Zhenting Wang**, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang  
 Annual Computer Security Applications Conference 2024 (**ACSAC 2024**)
 
