@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 * I am a PhD student in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I am a research scientist intern at [Meta GenAI](https://ai.meta.com/), and was a research intern at [Sony AI](https://ai.sony/).
-* Research Interests: Generative Artificial Intelligence including (Multimodal) Large Language Models and Diffusion Models; Trustworthy Machine Learning; Responsible AIGC.
+* Research Interests: Generative Artificial Intelligence including (Multimodal) Large Language Models and Diffusion Models; (M)LLM-as-a-Judge; Trustworthy Machine Learning; Responsible AIGC.
 
 <font color='red'> I am actively seeking for the full-time research scientist position. Please feel free to contact me at zhenting.wang@rutgers.edu.</font>
 
 News
 ======
+* [2024-10] I am invited as a reviewer of WWW 2025.
 * [2024-10] I am invited as a reviewer of AISTATS 2025.
 * [2024-09] 1 paper is accepted to S&P (Oakland) 2025. Congrates to Boheng!
 * [2024-08] 1 paper is accepted to ACSAC 2024.
@@ -168,6 +169,7 @@ Service
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
 * Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 * Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
+* Reviewer, International World Wide Web Conference (WWW), 2025
 * Reviewer, Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 * Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 * Reviewer, SIAM International Conference on Data Mining (SDM), 2024
