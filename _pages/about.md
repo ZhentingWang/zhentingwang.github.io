@@ -13,7 +13,7 @@ redirect_from:
 
 <font color='red'> I am actively seeking for the full-time research scientist position. Please feel free to contact me at zhenting.wang@rutgers.edu.</font>
 
-News
+<!--News
 ======
 * [2024-11] I am invited as a reviewer of CVPR 2025.
 * [2024-10] I am invited as a reviewer of WWW 2025.
@@ -55,7 +55,7 @@ News
 * [2022-03] 2 papers are accepted to CVPR 2022.
 * [2022-01] I am invited as a reviewer of ICML 2022.
 * [2022-01] I am invited as a member of USENIX Security 2022 Artifact Evaluation Committee.
-* [2021-11] I am invited as a reviewer of CVPR 2022.
+* [2021-11] I am invited as a reviewer of CVPR 2022.-->
 
 Publications
 ======
@@ -171,7 +171,7 @@ Service
 * Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024
-* Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
+* Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
 * Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
