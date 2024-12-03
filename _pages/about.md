@@ -90,6 +90,9 @@ IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
 Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin  
 European Conference on Computer Vision 2024 (**ECCV 2024**)
 
+* [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)  
+Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen (Preprint)
+
 * [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
 Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang (Preprint)
 
@@ -133,9 +136,6 @@ Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023
 * [Complex Backdoor Detection by Symmetric Feature Differencing](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf)  
 Yingqi Liu, Guangyu Shen, Guanhong Tao, **Zhenting Wang**, Shiqing Ma, Xiangyu Zhang  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022**)
-
-* [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)  
-Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen (Preprint)
 
 ### (Multimodal) Large Language Models
 
