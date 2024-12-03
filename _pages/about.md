@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 * I am a PhD student in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I am a research scientist intern at [Meta GenAI](https://ai.meta.com/), and was a research intern at [Sony AI](https://ai.sony/).
-* Research Interests: Generative Artificial Intelligence including (Multimodal) Large Language Models and Diffusion Models; (M)LLM-as-a-Judge; Trustworthy Machine Learning; Responsible AIGC.
+* Research Interests: Generative Artificial Intelligence especially (Multimodal) Large Language Models; (M)LLM-as-a-Judge; Trustworthy Machine Learning; Responsible AIGC.
 
 <font color='red'> I am actively seeking for the full-time research scientist position. Please feel free to contact me at zhenting.wang@rutgers.edu.</font>
 
 News
 ======
+* [2024-11] I am invited as a reviewer of CVPR 2025.
 * [2024-10] I am invited as a reviewer of WWW 2025.
 * [2024-10] I am invited as a reviewer of AISTATS 2025.
 * [2024-09] 1 paper is accepted to S&P (Oakland) 2025. Congrates to Boheng!
@@ -75,6 +76,9 @@ Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 
 * [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
 **Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu (Preprint)
+
+* [Continuous Concepts Removal in Text-to-image Diffusion Models]([https://arxiv.org/pdf/2406.04662](https://arxiv.org/pdf/2412.00580))  
+Tingxu Han, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, Tao Zheng, Zhenyu Chen, **Zhenting Wang** (Preprint)
 
 * [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://zhentingwang.github.io/)  
 Boheng Li, Yanhao Wei, Yankai Fu, **Zhenting Wang**, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang  
