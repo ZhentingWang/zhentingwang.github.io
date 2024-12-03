@@ -144,6 +144,9 @@ Conference on Language Modeling 2024 (**COLM 2024**)
 * [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
 Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang (**COLING 2025**)
 
+* [Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
+Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu (Preprint)
+
 * [APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)   
 Can Jin, Hongwu Peng, Shiyu Zhao, **Zhenting Wang**, Wujiang Xu, Ligong Han, Jiahui Zhao, Kai Zhong, Sanguthevar Rajasekaran, Dimitris N. Metaxas (Preprint)
 
