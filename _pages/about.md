@@ -97,7 +97,7 @@ Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen
 Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang (Preprint)
 
 * [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.11282)  
-Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang
+Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang (Preprint)
 
 
 
