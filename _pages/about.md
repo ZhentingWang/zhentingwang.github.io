@@ -67,6 +67,10 @@ Publications
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
 Tingxu Han, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen, **Zhenting Wang**\* (Preprint, **\* indicates project lead**)
 
+* [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
+Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
+Conference on Language Modeling 2024 (**COLM 2024**)
+
 * [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
 Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu (Preprint)
 
@@ -157,10 +161,6 @@ Yingqi Liu, Guangyu Shen, Guanhong Tao, **Zhenting Wang**, Shiqing Ma, Xiangyu Z
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022**)
 
 ### (Multimodal) Large Language Models
-
-* [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
-Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
-Conference on Language Modeling 2024 (**COLM 2024**)
 
 * [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
 Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang (**COLING 2025**)
