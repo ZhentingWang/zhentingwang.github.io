@@ -101,6 +101,9 @@ Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen
 * [Robustness-aware Automatic Prompt Optimization](https://arxiv.org/pdf/2412.18196)  
 Zeru Shi, **Zhenting Wang**, Yongye Su, Weidi Luo, Fan Yang, Yongfeng Zhang (Preprint)
 
+* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
+Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang (Preprint)
+
 * [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
 Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang (Preprint)
 
@@ -187,7 +190,7 @@ Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Or
 Service
 ======
 * Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025
-* Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024
+* Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
