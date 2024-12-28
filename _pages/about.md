@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a PhD student in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I am a research scientist intern at [Meta GenAI](https://ai.meta.com/), and was a research intern at [Sony AI](https://ai.sony/).
+* I am a PhD student in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I was a research scientist intern at [GenAI@Meta](https://ai.meta.com/), and a research intern at [Sony AI](https://ai.sony/).
 * Research Interests: Generative Artificial Intelligence especially (Multimodal) Large Language Models; (M)LLM Reasoning; (M)LLM-as-a-Judge; Trustworthy Machine Learning; Responsible AIGC.
 
 <font color='red'> I am actively seeking for the full-time research scientist position. Please feel free to contact me at zhenting.wang@rutgers.edu.</font>
