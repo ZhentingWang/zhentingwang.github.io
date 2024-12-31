@@ -65,7 +65,7 @@ Publications
 ### LLM Reasoning
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
-Tingxu Han, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen, **Zhenting Wang**\* (Preprint, **\* indicates project lead**)
+Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
