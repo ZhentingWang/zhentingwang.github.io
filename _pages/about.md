@@ -13,6 +13,10 @@ redirect_from:
 
 <font color='red'> I am actively seeking for the full-time research scientist position. Please feel free to contact me at zhenting.wang@rutgers.edu.</font>
 
+--News
+======
+* [2025-01] 3 papers are accepted to ICLR 2025.
+
 <!--News
 ======
 * [2024-11] I am invited as a reviewer of CVPR 2025.
@@ -67,12 +71,13 @@ Publications
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)
 
+* [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
+Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu (**ICLR 2025**)
+
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
 Conference on Language Modeling 2024 (**COLM 2024**)
 
-* [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
-Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu (Preprint)
 
 ### LLM-as-a-Judge
 
@@ -102,6 +107,9 @@ Tingxu Han, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, 
 * [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://zhentingwang.github.io/)  
 Boheng Li, Yanhao Wei, Yankai Fu, **Zhenting Wang**, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang  
 IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
+
+* [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
+Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang (**ICLR 2025**)
   
 * [Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection](https://arxiv.org/pdf/2403.15955.pdf)  
 Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin  
@@ -115,9 +123,6 @@ Zeru Shi, **Zhenting Wang**, Yongye Su, Weidi Luo, Fan Yang, Yongfeng Zhang (Pre
 
 * [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
 Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang (Preprint)
-
-* [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
-Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang (Preprint)
 
 * [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.11282)  
 Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang (Preprint)
