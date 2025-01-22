@@ -72,7 +72,8 @@ Publications
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)
 
 * [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
-Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu (**ICLR 2025**)
+Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu  
+International Conference on Learning Representations 2024 (**ICLR 2025**)
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
@@ -109,7 +110,8 @@ Boheng Li, Yanhao Wei, Yankai Fu, **Zhenting Wang**, Yiming Li, Jie Zhang, Run W
 IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
 
 * [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
-Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang (**ICLR 2025**)
+Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang  
+International Conference on Learning Representations 2024 (**ICLR 2025**)
   
 * [Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection](https://arxiv.org/pdf/2403.15955.pdf)  
 Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin  
@@ -188,6 +190,10 @@ Can Jin, Hongwu Peng, Shiyu Zhao, **Zhenting Wang**, Wujiang Xu, Ligong Han, Jia
 Mingyu Jin, Qinkai Yu, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, Yanda Meng, **Zhenting Wang**, Mengnan Du, Yongfeng Zhang (Preprint)
 
 ### Computer Vision
+
+* [LoR-VP: Low-Rank Visual Prompting for Efficient Vision Model Adaptation](https://dl.acm.org/doi/abs/10.1145/3394171.3413945)  
+Can Jin, Ying Li, Mingyu Zhao, Shiyu Zhao, **Zhenting Wang**, Xiaoxiao He, Ligong Han, Tong Che, Dimitris N. Metaxas  
+International Conference on Learning Representations 2024 (**ICLR 2025**)
 
 * [Learning Selective Assignment Network for Scene-aware Vehicle Detection](https://zhentingwang.github.io)  
 **Zhenting Wang**, Wei Li, Xiao Wu, Luhan Sheng  
