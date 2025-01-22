@@ -116,7 +116,7 @@ IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
 Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang  
 International Conference on Learning Representations 2024 (**ICLR 2025**)
 
-* [EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs](https://zhentingwang.github.io/)
+* [EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs](https://zhentingwang.github.io/)  
 Sam Lin, Wenyue Hua, **Zhenting Wang**, Mingyu Jin, Lizhou Fan, Yongfeng Zhang
 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Main)
 
