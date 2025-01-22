@@ -18,6 +18,7 @@ redirect_from:
 News
 ======
 * [2025-01] 3 papers are accepted to ICLR 2025.
+* [2025-01] 3 papers are accepted to NAACL 2025.
 
 <!--News
 ======
