@@ -115,13 +115,19 @@ IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
 * [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
 Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang  
 International Conference on Learning Representations 2024 (**ICLR 2025**)
-  
+
+* [EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs](https://zhentingwang.github.io/)
+Sam Lin, Wenyue Hua, **Zhenting Wang**, Mingyu Jin, Lizhou Fan, Yongfeng Zhang
+Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Main)
+
+
+* [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)  
+Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen
+Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Findings)
+
 * [Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection](https://arxiv.org/pdf/2403.15955.pdf)  
 Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin  
 European Conference on Computer Vision 2024 (**ECCV 2024**)
-
-* [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)  
-Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen (Preprint)
 
 * [Robustness-aware Automatic Prompt Optimization](https://arxiv.org/pdf/2412.18196)  
 Zeru Shi, **Zhenting Wang**, Yongye Su, Weidi Luo, Fan Yang, Yongfeng Zhang (Preprint)
@@ -138,7 +144,7 @@ Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou
 
 * [Data-centric NLP Backdoor Defense from the Lens of Memorization](https://arxiv.org/pdf/2409.14200)  
 **Zhenting Wang**, Zhizhi Wang, Mingyu Jin, Mengnan Du, Juan Zhai, Shiqing Ma  
-Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025**)
+Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Findings)
 
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://www.cs.purdue.edu/homes/taog/docs/SP24.pdf)  
 Guanhong Tao*,**Zhenting Wang**\*,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
