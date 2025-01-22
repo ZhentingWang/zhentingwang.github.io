@@ -136,6 +136,10 @@ Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou
 
 ### AI Security
 
+* [Data-centric NLP Backdoor Defense from the Lens of Memorization](https://arxiv.org/pdf/2409.14200)  
+**Zhenting Wang**, Zhizhi Wang, Mingyu Jin, Mengnan Du, Juan Zhai, Shiqing Ma  
+Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025**)
+
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://www.cs.purdue.edu/homes/taog/docs/SP24.pdf)  
 Guanhong Tao*,**Zhenting Wang**\*,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
 IEEE Symposiums on Security and Privacy 2024  
@@ -156,9 +160,6 @@ Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
 * [BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning](https://arxiv.org/abs/2205.13383)  
 **Zhenting Wang**, Juan Zhai, Shiqing Ma  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022**)
-
-* [Data-centric NLP Backdoor Defense from the Lens of Memorization](https://arxiv.org/pdf/2409.14200)  
-**Zhenting Wang**, Zhizhi Wang, Mingyu Jin, Mengnan Du, Juan Zhai, Shiqing Ma (Preprint)
 
 * [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/pdf/2405.14672)  
 Hanrong Zhang*, **Zhenting Wang**\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma (Preprint, * indicates equal contribution)
