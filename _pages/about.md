@@ -117,12 +117,12 @@ Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zha
 International Conference on Learning Representations 2024 (**ICLR 2025**)
 
 * [EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs](https://zhentingwang.github.io/)  
-Sam Lin, Wenyue Hua, **Zhenting Wang**, Mingyu Jin, Lizhou Fan, Yongfeng Zhang
+Sam Lin, Wenyue Hua, **Zhenting Wang**, Mingyu Jin, Lizhou Fan, Yongfeng Zhang  
 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Main)
 
 
 * [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)  
-Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen
+Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen  
 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Findings)
 
 * [Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection](https://arxiv.org/pdf/2403.15955.pdf)  
