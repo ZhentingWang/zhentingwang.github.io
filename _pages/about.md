@@ -69,7 +69,7 @@ News
 Publications
 ======
 
-### LLM Reasoning
+### LLM Reasoning/LLM Post-training
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)
@@ -81,6 +81,9 @@ International Conference on Learning Representations 2024 (**ICLR 2025**)
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
 Conference on Language Modeling 2024 (**COLM 2024**)
+
+* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
+Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang (Preprint)
 
 
 ### LLM-as-a-Judge
@@ -120,7 +123,6 @@ International Conference on Learning Representations 2024 (**ICLR 2025**)
 Sam Lin, Wenyue Hua, **Zhenting Wang**, Mingyu Jin, Lizhou Fan, Yongfeng Zhang  
 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Main)
 
-
 * [Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer](https://arxiv.org/pdf/2408.11313)  
 Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen  
 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Findings)
@@ -131,9 +133,6 @@ European Conference on Computer Vision 2024 (**ECCV 2024**)
 
 * [Robustness-aware Automatic Prompt Optimization](https://arxiv.org/pdf/2412.18196)  
 Zeru Shi, **Zhenting Wang**, Yongye Su, Weidi Luo, Fan Yang, Yongfeng Zhang (Preprint)
-
-* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
-Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang (Preprint)
 
 * [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.11282)  
 Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang (Preprint)
