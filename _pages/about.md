@@ -86,7 +86,7 @@ Conference on Language Modeling 2024 (**COLM 2024**)
 Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang (Preprint)
 
 * [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering](https://arxiv.org/abs/2502.03628)  
-Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, Zhenting Wang, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas (Preprint)
+Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas (Preprint)
 
 ### LLM-as-a-Judge
 
