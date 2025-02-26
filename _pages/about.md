@@ -17,6 +17,7 @@ redirect_from:
 
 News
 ======
+* [2025-02] 4 papers are accepted to CVPR 2025.
 * [2025-01] 3 papers are accepted to ICLR 2025.
 * [2025-01] 3 papers are accepted to NAACL 2025.
 
@@ -91,7 +92,8 @@ Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting
 ### LLM-as-a-Judge
 
 * [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)  
-**Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain (**Meta AI Technical Report**)
+**Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 ### Responsible Generative AI
 
@@ -113,9 +115,13 @@ Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 * [Continuous Concepts Removal in Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.00580)  
 Tingxu Han, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, Tao Zheng, Zhenyu Chen, **Zhenting Wang** (Preprint)
 
+* [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://zhentingwang.github.io/)  
+Siyuan Cheng, Lingjuan Lyu, **Zhenting Wang**, Xiangyu Zhang, Vikash Sehwag
+IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
+
 * [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://zhentingwang.github.io/)  
 Boheng Li, Yanhao Wei, Yankai Fu, **Zhenting Wang**, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang  
-IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 * [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
 Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang  
@@ -147,6 +153,10 @@ Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou
 **Zhenting Wang**, Zhizhi Wang, Mingyu Jin, Mengnan Du, Juan Zhai, Shiqing Ma  
 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Findings)
 
+* [Invisible Backdoor Attack against Self-supervised Learning](https://arxiv.org/pdf/2405.14672)  
+Hanrong Zhang*, **Zhenting Wang**\*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma (Preprint, * indicates equal contribution)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
+
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://www.cs.purdue.edu/homes/taog/docs/SP24.pdf)  
 Guanhong Tao*,**Zhenting Wang**\*,Shiwei Feng,Guangyu Shen,Shiqing Ma,Xiangyu Zhang  
 IEEE Symposiums on Security and Privacy 2024  
@@ -168,9 +178,6 @@ Proceedings of Neural Information Processing Systems 2022 (**NeurIPS 2022**)
 **Zhenting Wang**, Juan Zhai, Shiqing Ma  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022**)
 
-* [Towards Imperceptible Backdoor Attack in Self-supervised Learning](https://arxiv.org/pdf/2405.14672)  
-Hanrong Zhang*, **Zhenting Wang**\*, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma (Preprint, * indicates equal contribution)
-
 * [Exploring Inherent Backdoors in Deep Learning Models](https://arxiv.org/abs/2211.15929)  
 Guanhong Tao, Siyuan Cheng, **Zhenting Wang**, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang  
 Annual Computer Security Applications Conference 2024 (**ACSAC 2024**)
@@ -185,14 +192,15 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022
 
 ### (Multimodal) Large Language Models
 
+* [Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
+Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
+
 * [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
 Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang (**COLING 2025**)
 
 * [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/pdf/2402.10835)   
 Hua Tang, Chong Zhang, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Xiaobo Jin, Yongfeng Zhang, Mengnan Du (**SIGKDD Explorations 2024**)
-
-* [Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
-Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu (Preprint)
 
 * [APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)   
 Can Jin, Hongwu Peng, Shiyu Zhao, **Zhenting Wang**, Wujiang Xu, Ligong Han, Jiahui Zhao, Kai Zhong, Sanguthevar Rajasekaran, Dimitris N. Metaxas (Preprint)
