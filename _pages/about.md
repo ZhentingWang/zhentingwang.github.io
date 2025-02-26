@@ -95,13 +95,13 @@ Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting
 **Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
-* [Invisible Backdoor Attack against Self-supervised Learning](https://arxiv.org/pdf/2405.14672)  
-Hanrong Zhang*, **Zhenting Wang**\*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**, **\* indicates equal contribution**)
-
 * [Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
 Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
+
+* [Invisible Backdoor Attack against Self-supervised Learning](https://arxiv.org/pdf/2405.14672)  
+Hanrong Zhang*, **Zhenting Wang**\*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**, **\* indicates equal contribution**)
 
 * [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://zhentingwang.github.io/)  
 Siyuan Cheng, Lingjuan Lyu, **Zhenting Wang**, Xiangyu Zhang, Vikash Sehwag  
