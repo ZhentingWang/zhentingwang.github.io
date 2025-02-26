@@ -104,7 +104,7 @@ Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wan
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 * [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://zhentingwang.github.io/)  
-Siyuan Cheng, Lingjuan Lyu, **Zhenting Wang**, Xiangyu Zhang, Vikash Sehwag
+Siyuan Cheng, Lingjuan Lyu, **Zhenting Wang**, Xiangyu Zhang, Vikash Sehwag  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 ### Responsible Generative AI
@@ -128,7 +128,7 @@ Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 Tingxu Han, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, Tao Zheng, Zhenyu Chen, **Zhenting Wang** (Preprint)
 
 * [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://zhentingwang.github.io/)  
-Siyuan Cheng, Lingjuan Lyu, **Zhenting Wang**, Xiangyu Zhang, Vikash Sehwag
+Siyuan Cheng, Lingjuan Lyu, **Zhenting Wang**, Xiangyu Zhang, Vikash Sehwag  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 * [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://zhentingwang.github.io/)  
