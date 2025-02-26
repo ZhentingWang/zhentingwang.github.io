@@ -96,7 +96,7 @@ Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 * [Invisible Backdoor Attack against Self-supervised Learning](https://arxiv.org/pdf/2405.14672)  
-Hanrong Zhang*, **Zhenting Wang**\*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma
+Hanrong Zhang*, **Zhenting Wang**\*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**, **\* indicates equal contribution**)
 
 * [Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
@@ -166,7 +166,7 @@ Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou
 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Findings)
 
 * [Invisible Backdoor Attack against Self-supervised Learning](https://arxiv.org/pdf/2405.14672)  
-Hanrong Zhang*, **Zhenting Wang**\*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma
+Hanrong Zhang*, **Zhenting Wang**\*, Boheng Li, Fulin Lin, Tingxu Han, Mingyu Jin, Chenlu Zhan, Mengnan Du, Hongwei Wang, Shiqing Ma  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**, **\* indicates equal contribution**)
 
 * [Distribution Preserving Backdoor Attack in Self-supervised Learning](https://www.cs.purdue.edu/homes/taog/docs/SP24.pdf)  
