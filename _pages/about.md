@@ -193,7 +193,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (**CVPR 2022
 ### (Multimodal) Large Language Models
 
 * [Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
-Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu
+Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 * [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
