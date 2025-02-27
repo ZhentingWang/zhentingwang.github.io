@@ -120,7 +120,7 @@ Siyuan Cheng, Lingjuan Lyu, **Zhenting Wang**, Xiangyu Zhang, Vikash Sehwag
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 * [Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models](https://zhentingwang.github.io/)  
-Boheng Li, Yanhao Wei, Yankai Fu, **Zhenting Wang**, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang
+Boheng Li, Yanhao Wei, Yankai Fu, **Zhenting Wang**, Yiming Li, Jie Zhang, Run Wang, Tianwei Zhang  
 IEEE Symposiums on Security and Privacy 2025 (**S&P 2025**)
 
 * [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
