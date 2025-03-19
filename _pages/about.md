@@ -202,6 +202,9 @@ Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue
 * [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/pdf/2402.10835)   
 Hua Tang, Chong Zhang, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Xiaobo Jin, Yongfeng Zhang, Mengnan Du (**SIGKDD Explorations 2024**)
 
+* [LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation](https://arxiv.org/pdf/2503.13794)   
+Yang Zhou, Shiyu Zhao, Yuxiao Chen, **Zhenting Wang**, Dimitris N. Metaxas (Preprint)
+
 * [APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)   
 Can Jin, Hongwu Peng, Shiyu Zhao, **Zhenting Wang**, Wujiang Xu, Ligong Han, Jiahui Zhao, Kai Zhong, Sanguthevar Rajasekaran, Dimitris N. Metaxas (Preprint)
 
