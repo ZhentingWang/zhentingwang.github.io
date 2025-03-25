@@ -115,7 +115,7 @@ Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
 * [Continuous Concepts Removal in Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.00580)  
 Tingxu Han, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, Tao Zheng, Zhenyu Chen, **Zhenting Wang** (Preprint)
 
-* [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://zhentingwang.github.io/)  
+* [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/pdf/2503.18286)  
 Siyuan Cheng, Lingjuan Lyu, **Zhenting Wang**, Xiangyu Zhang, Vikash Sehwag  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
@@ -233,6 +233,7 @@ Service
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
+* Reviewer, ACL Rolling Review (ARR), 2025
 * Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 * Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Reviewer, International World Wide Web Conference (WWW), 2025
