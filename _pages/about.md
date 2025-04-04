@@ -17,7 +17,7 @@ redirect_from:
 
 News
 ======
-* [2025-02] 4 papers are accepted to CVPR 2025.
+* [2025-02] 4 papers are accepted to CVPR 2025 (1 Hightlight).
 * [2025-01] 3 papers are accepted to ICLR 2025.
 * [2025-01] 3 papers are accepted to NAACL 2025.
 
@@ -93,7 +93,7 @@ Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting
 
 * [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)  
 **Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <font color=red>Highlight</font>**)
 
 ### Responsible Generative AI
 
