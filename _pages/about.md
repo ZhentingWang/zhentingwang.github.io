@@ -17,6 +17,7 @@ redirect_from:
 
 News
 ======
+* [2025-03] I am co-organizing the [Data for Generative Models](https://icml2025digbugs.github.io/) workshop at ICML 2025.
 * [2025-02] 4 papers are accepted to CVPR 2025 (1 Hightlight).
 * [2025-01] 3 papers are accepted to ICLR 2025.
 * [2025-01] 3 papers are accepted to NAACL 2025.
