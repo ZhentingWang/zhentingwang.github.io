@@ -228,6 +228,7 @@ Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Or
 
 Service
 ======
+* Co-organizer, Data in Generative Models Workshop @ ICML 2025
 * Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024
