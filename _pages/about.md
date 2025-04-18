@@ -71,6 +71,9 @@ Publications
 
 ### LLM Reasoning/LLM Post-training
 
+* [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)  
+**Zhenting Wang**, Guofeng Cui, Kun Wan, Wentian Zhao (Preprint)
+
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)
 
@@ -229,9 +232,9 @@ Service
 * Co-organizer, Data in Generative Models Workshop @ ICML 2025
 * Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025
-* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024
+* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024, 2025
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025
-* Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023
+* Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023, 2025
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
 * Reviewer, ACL Rolling Review (ARR), 2025
 * Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
