@@ -87,7 +87,7 @@ Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
 * [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
-Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang
+Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang  
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
@@ -104,7 +104,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025
 ### Responsible Generative AI
 
 * [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
-**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu
+**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu  
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
 * [How to Trace Latent Generative Model Generated Images without Artificial Watermark?](https://arxiv.org/pdf/2405.13360)  
