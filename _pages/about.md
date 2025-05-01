@@ -204,16 +204,18 @@ Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wan
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
 * [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
-Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang (**COLING 2025**)
+Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
+International Conference on Computational Linguistics 2025 (**COLING 2025**)
+
+* [APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)   
+Can Jin, Hongwu Peng, Shiyu Zhao, **Zhenting Wang**, Wujiang Xu, Ligong Han, Jiahui Zhao, Kai Zhong, Sanguthevar Rajasekaran, Dimitris N. Metaxas
+Resource-efficient Learning Workshop@WWW 2025 (<font color=red>Best Paper Award @ RelWeb</font>)
 
 * [Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities](https://arxiv.org/pdf/2402.10835)   
 Hua Tang, Chong Zhang, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Xiaobo Jin, Yongfeng Zhang, Mengnan Du (**SIGKDD Explorations 2024**)
 
 * [LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation](https://arxiv.org/pdf/2503.13794)   
 Yang Zhou, Shiyu Zhao, Yuxiao Chen, **Zhenting Wang**, Dimitris N. Metaxas (Preprint)
-
-* [APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)   
-Can Jin, Hongwu Peng, Shiyu Zhao, **Zhenting Wang**, Wujiang Xu, Ligong Han, Jiahui Zhao, Kai Zhong, Sanguthevar Rajasekaran, Dimitris N. Metaxas (Preprint)
 
 * [Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model](https://arxiv.org/abs/2402.00746)  
 Mingyu Jin, Qinkai Yu, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, Yanda Meng, **Zhenting Wang**, Mengnan Du, Yongfeng Zhang (Preprint)
