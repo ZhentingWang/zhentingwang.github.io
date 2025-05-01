@@ -99,7 +99,7 @@ Conference on Language Modeling 2024 (**COLM 2024**)
 
 * [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)  
 **Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <font color=red>Highlight, Top 2.6%</font>**)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <font color=red>Highlight, Top 2.9%</font>**)
 
 ### Responsible Generative AI
 
