@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* [2025-05] 3 papers are accepted to ICML 2025.
 * [2025-03] I am co-organizing the [Data for Generative Models](https://icml2025digbugs.github.io/) workshop at ICML 2025.
 * [2025-02] 4 papers are accepted to CVPR 2025 (1 Hightlight).
 * [2025-01] 3 papers are accepted to ICLR 2025.
@@ -79,17 +80,20 @@ Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu
 
 * [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
 Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu  
-International Conference on Learning Representations 2024 (**ICLR 2025**)
+International Conference on Learning Representations 2025 (**ICLR 2025**)
+
+* [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models Via Visual Information Steering](https://arxiv.org/abs/2502.03628)  
+Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas
+International Conference on Machine Learning 2025 (**ICML 2025**)
+
+* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
+Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang
+International Conference on Machine Learning 2025 (**ICML 2025**)
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
 Conference on Language Modeling 2024 (**COLM 2024**)
 
-* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
-Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang (Preprint)
-
-* [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering](https://arxiv.org/abs/2502.03628)  
-Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas (Preprint)
 
 ### LLM-as-a-Judge
 
@@ -98,6 +102,10 @@ Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <font color=red>Highlight, Top 2.6%</font>**)
 
 ### Responsible Generative AI
+
+* [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
+**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu
+International Conference on Machine Learning 2025 (**ICML 2025**)
 
 * [How to Trace Latent Generative Model Generated Images without Artificial Watermark?](https://arxiv.org/pdf/2405.13360)  
 **Zhenting Wang**, Vikash Sehwag, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma  
@@ -110,9 +118,6 @@ International Conference on Learning Representations 2024 (**ICLR 2024**)
 * [Where Did I Come From? Origin Attribution of AI-Generated Images](https://proceedings.neurips.cc/paper_files/paper/2023/file/ebb4c188fafe7da089b41a9f615ad84d-Paper-Conference.pdf)  
 **Zhenting Wang**, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma  
 Proceedings of Neural Information Processing Systems 2023 (**NeurIPS 2023**)
-
-* [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
-**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu (Preprint)
 
 * [Continuous Concepts Removal in Text-to-image Diffusion Models](https://arxiv.org/pdf/2412.00580)  
 Tingxu Han, Weisong Sun, Yanrong Hu, Chunrong Fang, Yonglong Zhang, Shiqing Ma, Tao Zheng, Zhenyu Chen, **Zhenting Wang** (Preprint)
