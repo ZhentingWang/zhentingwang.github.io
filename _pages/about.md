@@ -83,7 +83,7 @@ Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wan
 International Conference on Learning Representations 2025 (**ICLR 2025**)
 
 * [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models Via Visual Information Steering](https://arxiv.org/abs/2502.03628)  
-Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas
+Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas  
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
 * [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
