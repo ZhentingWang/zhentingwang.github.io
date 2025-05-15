@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* [2025-05] 2 papers are accepted to ACL 2025.
 * [2025-05] 3 papers are accepted to ICML 2025.
 * [2025-03] I am co-organizing the [Data for Generative Models](https://icml2025digbugs.github.io/) workshop at ICML 2025.
 * [2025-02] 4 papers are accepted to CVPR 2025 (1 Hightlight).
@@ -77,6 +78,7 @@ Publications
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)
+Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings)
 
 * [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
 Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu  
@@ -191,7 +193,7 @@ Annual Computer Security Applications Conference 2024 (**ACSAC 2024**)
 
 * [NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models](https://arxiv.org/abs/2305.17826)  
 Kai Mei, Zheng Li, **Zhenting Wang**, Yang Zhang, Shiqing Ma  
-Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023**)
+Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023** Main)
 
 * [Complex Backdoor Detection by Symmetric Feature Differencing](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf)  
 Yingqi Liu, Guangyu Shen, Guanhong Tao, **Zhenting Wang**, Shiqing Ma, Xiangyu Zhang  
@@ -206,6 +208,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025
 * [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
 Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
 International Conference on Computational Linguistics 2025 (**COLING 2025**)
+
+* [ADO: Automatic Data Optimization for Inputs in LLM Prompts](https://arxiv.org/abs/2502.11436)   
+Sam Lin, Wenyue Hua, Lingyao Li, **Zhenting Wang**, Yongfeng Zhang  
+Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings)
 
 * [APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking](https://arxiv.org/pdf/2406.14449)   
 Can Jin, Hongwu Peng, Shiyu Zhao, **Zhenting Wang**, Wujiang Xu, Ligong Han, Jiahui Zhao, Kai Zhong, Sanguthevar Rajasekaran, Dimitris N. Metaxas  
