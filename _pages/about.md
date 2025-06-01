@@ -78,7 +78,7 @@ Publications
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)  
-Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, <font color=red>HuggingFace Daily Paper Top1</font>)
+Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<font color=red>HuggingFace Daily Paper Top1</font>**)
 
 * [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
 Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu  
