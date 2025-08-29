@@ -68,8 +68,64 @@ News
 
 <br>
 
-Publications
+Selected Publications
 ======
+
+
+
+<!--Publications
+======
+
+* [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
+**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow (Preprint)
+
+* [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)  
+**Zhenting Wang**, Guofeng Cui, Kun Wan, Wentian Zhao (Preprint)
+
+* [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
+Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)  
+Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<font color=red>HuggingFace Daily Paper Top1</font>**)
+
+* [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)  
+**Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <font color=red>Highlight, Top 2.9%</font>**)
+
+* [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
+**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu  
+International Conference on Machine Learning 2025 (**ICML 2025**)
+
+* [Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
+Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
+
+* [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
+Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
+International Conference on Computational Linguistics 2025 (**COLING 2025**)
+
+* [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
+Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu  
+International Conference on Learning Representations 2025 (**ICLR 2025**)
+
+* [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models Via Visual Information Steering](https://arxiv.org/abs/2502.03628)  
+Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas  
+International Conference on Machine Learning 2025 (**ICML 2025**)
+
+* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
+Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang  
+International Conference on Machine Learning 2025 (**ICML 2025**)
+
+* [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
+Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
+Conference on Language Modeling 2024 (**COLM 2024**)
+
+* [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
+Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang  
+International Conference on Learning Representations 2024 (**ICLR 2025**)
+
+* [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
+**Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
+International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight</font>**)
+
 
 ### Agentic LLM
 * [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
@@ -243,7 +299,7 @@ IEEE International Conference on Image Processing 2022 (**ICIP 2022**)
 
 * [CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes](https://dl.acm.org/doi/abs/10.1145/3394171.3413945)  
 Wei Li, **Zhenting Wang**, Xiao Wu, Ji Zhang, Qiang Peng, Hongliang Li  
-Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Oral**)
+Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Oral**)-->
 
 Service
 ======
