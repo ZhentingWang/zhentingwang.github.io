@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a research scientist@Accenture, Center for Advanced AI. I obtained my PhD in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I was a research scientist intern at [GenAI@Meta](https://ai.meta.com/), and a research intern at [Sony AI](https://ai.sony/).
-* Research Interests: Generative Artificial Intelligence especially Agentic LLM, Agent Training, and LLM Post-training.
+* Research Interests: Generative Artificial Intelligence especially Agentic LLM, Agent Training, LLM Reasoning, and LLM Post-training.
 
 <br>
 
