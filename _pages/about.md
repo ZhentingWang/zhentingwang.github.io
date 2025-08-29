@@ -71,11 +71,6 @@ News
 Selected Publications
 ======
 
-
-
-<!--Publications
-======
-
 * [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
 **Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow (Preprint)
 
@@ -126,6 +121,8 @@ International Conference on Learning Representations 2024 (**ICLR 2025**)
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
 International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight</font>**)
 
+<!--Publications
+======
 
 ### Agentic LLM
 * [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
