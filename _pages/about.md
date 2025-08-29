@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* I am a PhD student in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/). I am fortunate to be advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I was a research scientist intern at [GenAI@Meta](https://ai.meta.com/), and a research intern at [Sony AI](https://ai.sony/).
-* Research Interests: Generative Artificial Intelligence especially (Multimodal) Large Language Models; (M)LLM Post-training; (M)LLM Reasoning; (M)LLM-as-a-Judge; AI Safety; Responsible AIGC.
+* I am a research scientist@Accenture, Center for Advanced AI. I obtained my PhD in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I was a research scientist intern at [GenAI@Meta](https://ai.meta.com/), and a research intern at [Sony AI](https://ai.sony/).
+* Research Interests: Generative Artificial Intelligence especially Agentic LLM, Agent Training, and LLM Post-training.
 
 <br>
 
@@ -70,6 +70,10 @@ News
 
 Publications
 ======
+
+### Agentic LLM
+* [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
+**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow (Preprint)
 
 ### LLM Reasoning/LLM Post-training
 
@@ -144,15 +148,16 @@ Annual Conference of the Nations of the Americas Chapter of the Association for 
 Weipeng Jiang, **Zhenting Wang**, Juan Zhai, Shiqing Ma, Zhengyu Zhao, Chao Shen  
 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics 2025 (**NAACL 2025** Findings)
 
+* [Uncertainty Quantification for Multiple-Choice Questions is Just One-Token Deep](https://arxiv.org/pdf/2407.11282)  
+Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang
+ACM International Conference on Information and Knowledge Management 2025 (**CIKM 2025**)
+
 * [Finding needles in a haystack: A Black-Box Approach to Invisible Watermark Detection](https://arxiv.org/pdf/2403.15955.pdf)  
 Minzhou Pan, **Zhenting Wang**, Xin Dong, Vikash Sehwag, Lingjuan Lyu, Xue Lin  
 European Conference on Computer Vision 2024 (**ECCV 2024**)
 
 * [Robustness-aware Automatic Prompt Optimization](https://arxiv.org/pdf/2412.18196)  
 Zeru Shi, **Zhenting Wang**, Yongye Su, Weidi Luo, Fan Yang, Yongfeng Zhang (Preprint)
-
-* [Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models](https://arxiv.org/pdf/2407.11282)  
-Qingcheng Zeng, Mingyu Jin, Qinkai Yu, **Zhenting Wang**, Wenyue Hua, Zihao Zhou, Guangyan Sun, Yanda Meng, Shiqing Ma, Qifan Wang, Felix Juefei-Xu, Kaize Ding, Fan Yang, Ruixiang Tang, Yongfeng Zhang (Preprint)
 
 
 
@@ -259,6 +264,8 @@ Service
 * Reviewer, NeurIPS Dataset and Benchmark Track, 2024
 * Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
 * Reviewer, Backdoors in Deep Learning - The Good, the Bad, and the Ugly (BUGS) at NeurIPS 2023
+* Reviewer, Proceedings of the National Academy of Sciences Nexus (PNAS Nexus)
+* Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 * Reviewer, IEEE Transactions on Information Forensics & Security (IEEE TIFS)
 * Reviewer, IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 * Reviewer, ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
