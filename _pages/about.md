@@ -119,7 +119,7 @@ International Conference on Learning Representations 2024 (**ICLR 2025**)
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
-International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight</font>**)
+International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight, Top 5.7%</font>**)
 
 <!--Publications
 ======
