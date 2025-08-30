@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenting Wang's homepage"
 title_separator          : "-"
 name                     : &name "Zhenting Wang"
-description              : &description "PhD student in CS@Rutgers"
+description              : &description ""
 url                      : https://zhentingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhentingwang.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Zhenting Wang"
   avatar           : 
   bio              : "PhD student in CS@Rutgers"
-  location         : "Piscataway, NJ 08854"
+  location         : "Mountain View, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=en"
