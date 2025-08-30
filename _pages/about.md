@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a research scientist@Accenture, Center for Advanced AI. I obtained my PhD in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I was a research scientist intern at [GenAI@Meta](https://ai.meta.com/), and a research intern at [Sony AI](https://ai.sony/).
+* I am a research scientist senior manager@Accenture, Center for Advanced AI. I obtained my PhD in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I was a research scientist intern at [GenAI@Meta](https://ai.meta.com/), and a research intern at [Sony AI](https://ai.sony/).
 * Research Interests: Generative Artificial Intelligence especially Agentic LLM, Agent Training, LLM Reasoning, and LLM Post-training.
 
 <br>
@@ -326,10 +326,10 @@ Service
 * Sub-reviewer, ACM Conference on Computer and Communications Security (CCS), 2022, 2023, 2024
 * Sub-reviewer, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
 
-Teaching
+<!--Teaching
 ======
 * Guest Lecture, CS 431: Software Engineering, Rutgers University, Spring 2023
 * Teaching Assistant, CS 461: Machine Learning Principles, Rutgers University, Fall 2024
 * Teaching Assistant, CS 205: Introduction to Discrete Structures, Rutgers University, Fall 2022, Spring 2024
 * Teaching Assistant, CS 213: Software Methodology, Rutgers University, Fall 2023
-* Teaching Assistant, CS 431: Software Engineering, Rutgers University, Spring 2023
+* Teaching Assistant, CS 431: Software Engineering, Rutgers University, Spring 2023-->
