@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhenting Wang"
   avatar           : 
-  bio              : ""
+  bio              : 
   location         : "Mountain View, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=en"
-  email            : "zhenting.wang@rutgers.edu"
+  email            : "zt.wang1999@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
