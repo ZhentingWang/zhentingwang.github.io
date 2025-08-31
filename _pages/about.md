@@ -70,6 +70,7 @@ News
 
 Selected Publications
 ======
+See [Google Scholar](https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=en) for full publication list.
 
 * [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
 **Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow (Preprint)
