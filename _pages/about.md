@@ -74,7 +74,8 @@ Selected Publications
 See [Google Scholar](https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=en) for full publication list.
 
 * [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
-**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow (NeurIPS 2025 Workshop on Scaling Environments for Agents)
+**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow  
+(NeurIPS 2025 Workshop on Scaling Environments for Agents)
 
 * [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)  
 **Zhenting Wang**, Guofeng Cui, Kun Wan, Wentian Zhao (Preprint)
@@ -303,10 +304,10 @@ Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Or
 Service
 ======
 * Co-organizer, Data in Generative Models Workshop @ ICML 2025
-* Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025
+* Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025, 2026
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024, 2025
-* Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025
+* Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025, 2026
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023, 2025
 * Reviewer, European Conference on Computer Vision (ECCV), 2024
 * Reviewer, ACL Rolling Review (ARR), 2025
