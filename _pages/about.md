@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* [2025-09] 1 last-authored paper is accepted to NeurIPS 2025.
 * [2025-05] 2 papers are accepted to ACL 2025.
 * [2025-05] 3 papers are accepted to ICML 2025.
 * [2025-03] I am co-organizing the [Data for Generative Models](https://icml2025digbugs.github.io/) workshop at ICML 2025.
@@ -73,7 +74,7 @@ Selected Publications
 See [Google Scholar](https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=en) for full publication list.
 
 * [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
-**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow (Preprint)
+**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow (NeurIPS 2025 Workshop on Scaling Environments for Agents)
 
 * [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)  
 **Zhenting Wang**, Guofeng Cui, Kun Wan, Wentian Zhao (Preprint)
