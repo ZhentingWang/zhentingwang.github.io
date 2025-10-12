@@ -78,7 +78,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=e
 (NeurIPS 2025 Workshop on Scaling Environments for Agents)
 
 * [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)  
-**Zhenting Wang**, Guofeng Cui, Kun Wan, Wentian Zhao (Preprint)
+**Zhenting Wang**, Guofeng Cui, Yu-Jhe Li, Kun Wan, Wentian Zhao (Preprint)
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)  
@@ -92,7 +92,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025
 **Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu  
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
-* [Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
+* [EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/pdf/2509.22576)  
+Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai Mei, Kun Wan, Dimitris N. Metaxas (Preprint)
+
+* [Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
 Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
