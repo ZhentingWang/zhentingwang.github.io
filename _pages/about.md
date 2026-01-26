@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* [2026-01] 2 papers are accepted to ICLR 2026.
 * [2025-09] 1 last-authored paper is accepted to NeurIPS 2025.
 * [2025-05] 2 papers are accepted to ACL 2025.
 * [2025-05] 3 papers are accepted to ICML 2025.
@@ -75,7 +76,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=e
 
 * [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
 **Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow  
-(NeurIPS 2025 Workshop on Scaling Environments for Agents)
+International Conference on Learning Representations 2026 (**ICLR 2026**)  
+Also in NeurIPS 2025 Workshop on Scaling Environments for Agents)
 
 * [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)  
 **Zhenting Wang**, Guofeng Cui, Yu-Jhe Li, Kun Wan, Wentian Zhao (Preprint)
