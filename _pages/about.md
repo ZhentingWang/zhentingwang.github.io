@@ -80,7 +80,7 @@ International Conference on Learning Representations 2026 (**ICLR 2026**)
 Also in NeurIPS 2025 Workshop on Scaling Environments for Agents
 
 * [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)  
-**Zhenting Wang**, Guofeng Cui, Yu-Jhe Li, Kun Wan, Wentian Zhao
+**Zhenting Wang**, Guofeng Cui, Yu-Jhe Li, Kun Wan, Wentian Zhao  
 ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Models
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
