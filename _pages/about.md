@@ -88,7 +88,7 @@ ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Mod
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)  
-Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<font color=red>HuggingFace Daily Paper Top1</font>**)
+Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<font color=red>HuggingFace Daily Paper Top1, 200+ Citations within 12 months from the release.</font>**)
 
 * [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)  
 **Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain  
