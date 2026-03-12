@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a research scientist senior manager@Accenture, Center for Advanced AI. I obtained my PhD in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I was a research scientist intern at [GenAI@Meta](https://ai.meta.com/), and a research intern at [Sony AI](https://ai.sony/).
-* Research Interests: Agentic LLM, Agent Training, LLM Reasoning, and LLM Post-training.
+* Research Interests: Large Language Model, Reinforcement Learning, Agent&Reasoning.
 
 <br>
 
@@ -314,7 +314,7 @@ Service
 ======
 * Co-organizer, Data in Generative Models Workshop @ ICML 2025
 * Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025, 2026
-* Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025
+* Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025, 2026
 * Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024, 2025
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025, 2026
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023, 2025
