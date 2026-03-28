@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a research scientist@MBZUAI Institute of Foundation Models, Silicon Valley Lab. I obtained my PhD in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). Previously, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a Research Scientist Intern at Meta GenAI, and a Research Intern at Sony AI.
+* I am a research scientist@MBZUAI Institute of Foundation Models, Silicon Valley Lab. I obtained my PhD in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). Previously, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI.
 * Research Interests: Large Language Model, Reinforcement Learning, Agent&Reasoning.
 
 <br>
