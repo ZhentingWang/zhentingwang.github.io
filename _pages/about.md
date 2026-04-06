@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* [2026-04] 2 papers are accepted to ACL 2026.
 * [2026-01] 2 papers are accepted to ICLR 2026.
 * [2025-09] 1 last-authored paper is accepted to NeurIPS 2025.
 * [2025-05] 2 papers are accepted to ACL 2025.
