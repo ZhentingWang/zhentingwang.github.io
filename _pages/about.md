@@ -103,6 +103,10 @@ International Conference on Machine Learning 2025 (**ICML 2025**)
 * [EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/pdf/2509.22576)  
 Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai Mei, Kun Wan, Dimitris N. Metaxas (Preprint)
 
+* [A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](https://arxiv.org/pdf/2605.08504)  
+Zeru Shi, **Zhenting Wang**, Fan Yang, Qifan Wang, Ruixiang Tang  
+International Conference on Machine Learning 2026 (**ICML 2026**)
+
 * [Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
 Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
