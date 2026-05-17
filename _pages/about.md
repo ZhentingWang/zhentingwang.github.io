@@ -321,11 +321,11 @@ Service
 * Co-organizer, Data in Generative Models Workshop @ ICML 2025
 * Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025, 2026
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025, 2026
-* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024, 2025
+* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024, 2025, 2026
 * Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025, 2026
 * Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023, 2025
-* Reviewer, European Conference on Computer Vision (ECCV), 2024
-* Reviewer, ACL Rolling Review (ARR), 2025
+* Reviewer, European Conference on Computer Vision (ECCV), 2024, 2026
+* Reviewer, ACL Rolling Review (ARR), 2025, 2026
 * Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 * Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 * Reviewer, International World Wide Web Conference (WWW), 2025
