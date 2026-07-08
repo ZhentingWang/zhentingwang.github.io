@@ -15,6 +15,8 @@ redirect_from:
 
 News
 ======
+* [2026-07] 2 papers are accepted to COLM 2026.
+* [2026-06] 1 paper is accepted to ECCV 2026.
 * [2026-04] 1 paper is accepted to ICML 2026.
 * [2026-04] 2 papers are accepted to ACL 2026.
 * [2026-01] 2 papers are accepted to ICLR 2026.
