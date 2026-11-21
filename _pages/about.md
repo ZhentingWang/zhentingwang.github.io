@@ -9,9 +9,14 @@ redirect_from:
 ---
 
 <section class="hero" id="about" aria-labelledby="homepage-title">
-  <h1 id="homepage-title">{{ site.author.name | escape }}</h1>
-  <p class="hero-role">Research Scientist, <a href="https://ifm.ai/">MBZUAI Institute of Foundation Models</a></p>
-  <p class="hero-location">Silicon Valley Lab &middot; {{ site.author.location | escape }}</p>
+  <div class="hero-header">
+    <div>
+      <h1 id="homepage-title">{{ site.author.name | escape }}</h1>
+      <p class="hero-role">Research Scientist, <a href="https://ifm.ai/">MBZUAI Institute of Foundation Models</a></p>
+      <p class="hero-location">Silicon Valley Lab &middot; {{ site.author.location | escape }}</p>
+    </div>
+    <img class="hero-avatar" src="{{ '/images/homepage-avatar.jpg' | relative_url }}" width="1024" height="1024" alt="Illustrated portrait of {{ site.author.name | escape }}">
+  </div>
 
   <p class="hero-bio">I obtained my PhD in the <a href="https://www.cs.rutgers.edu/">Computer Science Department</a> at <a href="https://www.rutgers.edu/">Rutgers University</a>, advised by Prof. <a href="https://people.cs.umass.edu/~shiqingma/">Shiqing Ma</a> and Prof. <a href="https://people.cs.rutgers.edu/~dnm/">Dimitris N. Metaxas</a>. Previously, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI.</p>
   <p class="research-interests"><strong>Research interests</strong> Large language models, reinforcement learning, and agent reasoning.</p>
