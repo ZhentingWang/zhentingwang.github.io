@@ -15,7 +15,7 @@ redirect_from:
       <p class="hero-role">Research Scientist, <a href="https://ifm.ai/">MBZUAI Institute of Foundation Models</a></p>
       <p class="hero-location">Silicon Valley Lab &middot; {{ site.author.location | escape }}</p>
     </div>
-    <img class="hero-avatar" src="{{ '/images/homepage-avatar.jpg' | relative_url }}" width="1024" height="1024" alt="Illustrated portrait of {{ site.author.name | escape }}">
+    <img class="hero-avatar" src="{{ '/images/homepage-avatar.jpg' | relative_url }}" width="128" height="128" alt="Illustrated portrait of {{ site.author.name | escape }}">
   </div>
 
   <div class="hero-bio">
