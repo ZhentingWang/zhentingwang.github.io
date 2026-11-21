@@ -67,7 +67,8 @@ Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu
 Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<span class="publication-note">HuggingFace Daily Paper Top1, 200+ citations within 12 months from the release.</span>**)
 
 * [EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/pdf/2509.22576)<br>
-Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai Mei, Kun Wan, Dimitris N. Metaxas (Preprint)
+Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai Mei, Kun Wan, Dimitris N. Metaxas<br>
+**Preprint, 2026**
 
 * [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://arxiv.org/abs/2609.04010)<br>
 Subham Sekhar Sahoo, Lingjie Chen, Khiem Pham, Jonathan Geuter, Chaitanya Dwivedi, Varad Pimpalkhute, Yash Akhauri, Alexander Moreno, Mikhail Yurochkin, **Zhenting Wang**, Mostafa Elhoushi, Nolan Dey, Shane Bergsma, Joel Hestness, John Thickstun, Eric Xing, Zhengzhong Liu<br>
@@ -75,7 +76,7 @@ Subham Sekhar Sahoo, Lingjie Chen, Khiem Pham, Jonathan Geuter, Chaitanya Dwived
 
 * [SLIM-RL: Risk-Budgeted Random-Masking RL for Diffusion LLMs Without Trajectory Slicing](https://arxiv.org/abs/2607.00208)<br>
 Ruikang Zhao, **Zhenting Wang**, Han Gao, Ligong Han<br>
-**Preprint, 2026**
+**COLM 2026 Workshop NonAR-LM**
 
 * [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)<br>
 Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang<br>
@@ -103,10 +104,6 @@ Wujiang Xu, Yu Wang, Kai Mei, Kaiqu Liang, **Zhenting Wang**, Mingyu Jin, Han Zh
 * [M<sup>3</sup>-Bench: Multi-Modal, Multi-Hop, Multi-Threaded Tool-Using MLLM Agent Benchmark](https://arxiv.org/abs/2511.17729)<br>
 Yang Zhou, Mingyu Zhao, **Zhenting Wang**, Difei Gu, Bangwei Guo, Ruosong Ye, Ligong Han, Can Jin, Dimitris N. Metaxas<br>
 **Preprint, 2025**
-
-* [SHIELD: A Benchmark Study on Zero-Shot Detection of AI-Edited Images with Vision Language Models](https://openreview.net/pdf?id=hEZPVTDXCy)<br>
-Siyuan Cheng, Hanxi Guo, **Zhenting Wang**, Xiangyu Zhang, Lingjuan Lyu<br>
-**NeurIPS 2025 Workshop on Generative and Protective AI for Content Creation**
 
 ### Other Research
 
