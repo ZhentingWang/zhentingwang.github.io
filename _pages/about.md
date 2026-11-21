@@ -1,32 +1,65 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+layout: homepage
+title: Research
+excerpt: "Zhenting Wang is a research scientist at the MBZUAI Institute of Foundation Models working on large language models, reinforcement learning, and agent reasoning."
+header:
+  image: photo_hq.jpg
+redirect_from:
   - /about/
   - /about.html
 ---
 
-* I am a research scientist@[MBZUAI Institute of Foundation Models](https://ifm.ai/), Silicon Valley Lab. I obtained my PhD in [Computer Science Department](https://www.cs.rutgers.edu/) at [Rutgers University](https://www.rutgers.edu/), advised by Prof. [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/) and Prof. [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). Previously, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI.
-* Research Interests: Large Language Model, Reinforcement Learning, Agent&Reasoning.
+<section class="hero" id="about" aria-labelledby="homepage-title">
+  <div class="hero-intro">
+    <h1 id="homepage-title">{{ site.author.name | escape }}</h1>
+    <p class="hero-role">Research Scientist, <a href="https://ifm.ai/">MBZUAI Institute of Foundation Models</a></p>
+    <p class="hero-location">Silicon Valley Lab &middot; {{ site.author.location | escape }}</p>
+  </div>
 
-<br>
+  <figure class="hero-portrait">
+    <img src="{{ '/images/photo_hq.jpg' | relative_url }}" width="1310" height="1791" alt="Zhenting Wang">
+  </figure>
 
-News
-======
-* [2026-07] 2 papers are accepted to COLM 2026.
-* [2026-06] 1 paper is accepted to ECCV 2026.
-* [2026-04] 1 paper is accepted to ICML 2026.
-* [2026-04] 2 papers are accepted to ACL 2026.
-* [2026-01] 2 papers are accepted to ICLR 2026.
-* [2025-09] 1 last-authored paper is accepted to NeurIPS 2025.
-* [2025-05] 2 papers are accepted to ACL 2025.
-* [2025-05] 3 papers are accepted to ICML 2025.
-* [2025-03] I am co-organizing the [Data for Generative Models](https://icml2025digbugs.github.io/) workshop at ICML 2025.
-* [2025-02] 4 papers are accepted to CVPR 2025 (1 Hightlight).
-* [2025-01] 3 papers are accepted to ICLR 2025.
-* [2025-01] 3 papers are accepted to NAACL 2025.
+  <div class="hero-details">
+    <p class="hero-bio">I obtained my PhD in the <a href="https://www.cs.rutgers.edu/">Computer Science Department</a> at <a href="https://www.rutgers.edu/">Rutgers University</a>, advised by Prof. <a href="https://people.cs.umass.edu/~shiqingma/">Shiqing Ma</a> and Prof. <a href="https://people.cs.rutgers.edu/~dnm/">Dimitris N. Metaxas</a>. Previously, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI.</p>
+    <p class="research-interests"><strong>Research interests</strong> Large language models, reinforcement learning, and agent reasoning.</p>
+
+    <ul class="profile-links" aria-label="Contact and profiles">
+      <li><a href="mailto:{{ site.author.email | escape }}">Email</a></li>
+      <li><a href="{{ site.author.googlescholar | escape }}">Google Scholar</a></li>
+      <li><a href="{{ '/Zhenting_CV.pdf' | relative_url }}">CV</a></li>
+      <li><a href="https://github.com/{{ site.author.github | escape }}">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}">LinkedIn</a></li>
+      <li><a href="https://twitter.com/{{ site.author.twitter | escape }}">X / Twitter</a></li>
+    </ul>
+  </div>
+</section>
+
+<section class="home-section" id="news" aria-labelledby="news-heading">
+  <h2 id="news-heading">News</h2>
+
+  <ul class="news-list">
+    <li><time datetime="2026-07">Jul 2026</time><span>2 papers are accepted to COLM 2026.</span></li>
+    <li><time datetime="2026-06">Jun 2026</time><span>1 paper is accepted to ECCV 2026.</span></li>
+    <li><time datetime="2026-04">Apr 2026</time><span>1 paper is accepted to ICML 2026.</span></li>
+    <li><time datetime="2026-04">Apr 2026</time><span>2 papers are accepted to ACL 2026.</span></li>
+    <li><time datetime="2026-01">Jan 2026</time><span>2 papers are accepted to ICLR 2026.</span></li>
+  </ul>
+
+  <details class="news-archive">
+    <summary>Earlier updates</summary>
+    <ul class="news-list">
+      <li><time datetime="2025-09">Sep 2025</time><span>1 last-authored paper is accepted to NeurIPS 2025.</span></li>
+      <li><time datetime="2025-05">May 2025</time><span>2 papers are accepted to ACL 2025.</span></li>
+      <li><time datetime="2025-05">May 2025</time><span>3 papers are accepted to ICML 2025.</span></li>
+      <li><time datetime="2025-03">Mar 2025</time><span>I am co-organizing the <a href="https://icml2025digbugs.github.io/">Data for Generative Models</a> workshop at ICML 2025.</span></li>
+      <li><time datetime="2025-02">Feb 2025</time><span>4 papers are accepted to CVPR 2025 (1 Highlight).</span></li>
+      <li><time datetime="2025-01">Jan 2025</time><span>3 papers are accepted to ICLR 2025.</span></li>
+      <li><time datetime="2025-01">Jan 2025</time><span>3 papers are accepted to NAACL 2025.</span></li>
+    </ul>
+  </details>
+</section>
 
 <!--News
 ======
@@ -72,74 +105,79 @@ News
 * [2022-01] I am invited as a member of USENIX Security 2022 Artifact Evaluation Committee.
 * [2021-11] I am invited as a reviewer of CVPR 2022.-->
 
-<br>
+<section class="home-section" id="publications" aria-labelledby="publications-heading">
+  <div class="section-heading">
+    <h2 id="publications-heading">Selected Publications</h2>
+    <a href="{{ site.author.googlescholar | escape }}">Full list on Google Scholar</a>
+  </div>
 
-Selected Publications
-======
-See [Google Scholar](https://scholar.google.com/citations?user=QSYVbj8AAAAJ&hl=en) for full publication list.
+<div class="publication-content" markdown="1">
 
-* [Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/pdf/2603.04257)  
+* [Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/pdf/2603.04257)<br>
 **Zhenting Wang**, Huancheng Chen, Jiayun Wang, Wei Wei (Preprint)
 
-* [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)  
-**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow  
-International Conference on Learning Representations 2026 (**ICLR 2026**)  
+* [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)<br>
+**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow<br>
+International Conference on Learning Representations 2026 (**ICLR 2026**)<br>
 Also in NeurIPS 2025 Workshop on Scaling Environments for Agents
 
-* [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)  
-**Zhenting Wang**, Guofeng Cui, Yu-Jhe Li, Kun Wan, Wentian Zhao  
+* [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)<br>
+**Zhenting Wang**, Guofeng Cui, Yu-Jhe Li, Kun Wan, Wentian Zhao<br>
 ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Models
 
-* [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)  
-Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)  
-Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<font color=red>HuggingFace Daily Paper Top1, 200+ citations within 12 months from the release.</font>**)
+* [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)<br>
+Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)<br>
+Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<span class="publication-note">HuggingFace Daily Paper Top1, 200+ citations within 12 months from the release.</span>**)
 
-* [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)  
-**Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <font color=red>Highlight, Top 2.9%</font>**)
+* [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)<br>
+**Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <span class="publication-note">Highlight, Top 2.9%</span>**)
 
-* [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)  
-**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu  
+* [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)<br>
+**Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu<br>
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
-* [EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/pdf/2509.22576)  
+* [EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/pdf/2509.22576)<br>
 Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai Mei, Kun Wan, Dimitris N. Metaxas (Preprint)
 
-* [A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](https://arxiv.org/pdf/2605.08504)  
-Zeru Shi, **Zhenting Wang**, Fan Yang, Qifan Wang, Ruixiang Tang  
+* [A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](https://arxiv.org/pdf/2605.08504)<br>
+Zeru Shi, **Zhenting Wang**, Fan Yang, Qifan Wang, Ruixiang Tang<br>
 International Conference on Machine Learning 2026 (**ICML 2026**)
 
-* [Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)   
-Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu  
+* [Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)<br>
+Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
 
-* [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)   
+* [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)<br>
 Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
 International Conference on Computational Linguistics 2025 (**COLING 2025**)
 
-* [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)   
-Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu  
+* [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)<br>
+Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu<br>
 International Conference on Learning Representations 2025 (**ICLR 2025**)
 
-* [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models Via Visual Information Steering](https://arxiv.org/abs/2502.03628)  
-Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas  
+* [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models Via Visual Information Steering](https://arxiv.org/abs/2502.03628)<br>
+Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas<br>
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
-* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)  
-Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang  
+* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)<br>
+Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang<br>
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
-* [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)   
-Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang  
+* [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)<br>
+Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang<br>
 Conference on Language Modeling 2024 (**COLM 2024**)
 
-* [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)  
-Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang  
+* [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)<br>
+Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
 International Conference on Learning Representations 2024 (**ICLR 2025**)
 
-* [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)  
-**Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma  
-International Conference on Learning Representations 2023 (**ICLR 2023 <font color=red>Spotlight, Top 5.7%</font>**)
+* [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)<br>
+**Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma<br>
+International Conference on Learning Representations 2023 (**ICLR 2023 <span class="publication-note">Spotlight, Top 5.7%</span>**)
+
+</div>
+</section>
 
 <!--Publications
 ======
@@ -318,8 +356,10 @@ IEEE International Conference on Image Processing 2022 (**ICIP 2022**)
 Wei Li, **Zhenting Wang**, Xiao Wu, Ji Zhang, Qiang Peng, Hongliang Li  
 Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Oral**)-->
 
-Service
-======
+<section class="home-section" id="service" aria-labelledby="service-heading">
+  <h2 id="service-heading">Service</h2>
+<div class="service-content" markdown="1">
+
 * Co-organizer, Data in Generative Models Workshop @ ICML 2025
 * Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025, 2026
 * Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025, 2026
@@ -345,6 +385,9 @@ Service
 * Artifact Evaluation Committee, USENIX Security Symposium, 2022
 * Sub-reviewer, ACM Conference on Computer and Communications Security (CCS), 2022, 2023, 2024
 * Sub-reviewer, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
+
+</div>
+</section>
 
 <!--Teaching
 ======

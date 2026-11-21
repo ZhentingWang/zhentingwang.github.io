@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ site.locale | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.excerpt | escape }}">
+    {% include seo.html %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Instrument+Serif&amp;display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-shell" id="top">
+      <header class="site-header">
+        <nav class="section-nav" aria-label="On this page">
+          <a href="#about">About</a>
+          <a href="#news">News</a>
+          <a href="#publications">Publications</a>
+          <a href="#service">Service</a>
+        </nav>
+      </header>
+
+      <main id="main" tabindex="-1">
+        {{ content }}
+      </main>
+
+      <footer class="site-footer">
+        <span>&copy; {{ site.time | date: '%Y' }} {{ site.author.name | escape }}</span>
+        <a href="{{ '/sitemap/' | relative_url }}">Sitemap</a>
+        <a href="#top">Back to top</a>
+      </footer>
+    </div>
+  </body>
+</html>
