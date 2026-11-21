@@ -89,16 +89,8 @@ a:hover { color: var(--hover); }
 section { scroll-margin-top: 1.25rem; }
 
 .hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(8.75rem, 12.25rem);
-  grid-template-areas: "intro portrait" "details portrait";
-  align-items: start;
-  gap: 1.55rem clamp(1.75rem, 6vw, 4.5rem);
   padding-block: clamp(2.75rem, 8vw, 5rem) clamp(2.5rem, 6vw, 4rem);
 }
-
-.hero-intro { grid-area: intro; }
-.hero-details { grid-area: details; }
 
 h1, h2 {
   margin: 0;
@@ -122,26 +114,13 @@ h2 { font-size: clamp(2.35rem, 6vw, 3.05rem); }
   font-size: 0.875rem;
 }
 
-.hero-bio { margin: 0; }
+.hero-bio {
+  max-width: 65ch;
+  margin: 1.55rem 0 0;
+}
 
 .research-interests { margin: 0.85rem 0 0; }
 .research-interests strong { margin-inline-end: 0.35em; font-weight: 700; }
-
-.hero-portrait {
-  grid-area: portrait;
-  margin: 0.3rem 0 0;
-  padding: 0.35rem;
-  border: 1px solid var(--rule);
-  border-radius: 0.5rem;
-  background: var(--surface);
-}
-
-.hero-portrait img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 0.2rem;
-}
 
 .profile-links {
   margin: 1.4rem 0 0;
@@ -248,11 +227,4 @@ h2 { font-size: clamp(2.35rem, 6vw, 3.05rem); }
   .site-shell { width: calc(100% - 2rem); }
   .site-header { justify-content: flex-start; padding-block: 1rem; }
   .section-nav, .profile-links { column-gap: 1rem; }
-  .hero {
-    grid-template-columns: minmax(0, 1fr) clamp(4.25rem, 20vw, 7rem);
-    grid-template-areas: "intro portrait" "details details";
-    gap: 1.15rem 0.85rem;
-  }
-  h1 { font-size: clamp(2.55rem, 9vw, 4rem); }
-  .hero-portrait { margin: 0.15rem 0 0; }
 }

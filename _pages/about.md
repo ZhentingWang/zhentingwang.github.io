@@ -3,37 +3,27 @@ permalink: /
 layout: homepage
 title: Research
 excerpt: "Zhenting Wang is a research scientist at the MBZUAI Institute of Foundation Models working on large language models, reinforcement learning, and agent reasoning."
-header:
-  image: photo_hq.jpg
 redirect_from:
   - /about/
   - /about.html
 ---
 
 <section class="hero" id="about" aria-labelledby="homepage-title">
-  <div class="hero-intro">
-    <h1 id="homepage-title">{{ site.author.name | escape }}</h1>
-    <p class="hero-role">Research Scientist, <a href="https://ifm.ai/">MBZUAI Institute of Foundation Models</a></p>
-    <p class="hero-location">Silicon Valley Lab &middot; {{ site.author.location | escape }}</p>
-  </div>
+  <h1 id="homepage-title">{{ site.author.name | escape }}</h1>
+  <p class="hero-role">Research Scientist, <a href="https://ifm.ai/">MBZUAI Institute of Foundation Models</a></p>
+  <p class="hero-location">Silicon Valley Lab &middot; {{ site.author.location | escape }}</p>
 
-  <figure class="hero-portrait">
-    <img src="{{ '/images/photo_hq.jpg' | relative_url }}" width="1310" height="1791" alt="Zhenting Wang">
-  </figure>
+  <p class="hero-bio">I obtained my PhD in the <a href="https://www.cs.rutgers.edu/">Computer Science Department</a> at <a href="https://www.rutgers.edu/">Rutgers University</a>, advised by Prof. <a href="https://people.cs.umass.edu/~shiqingma/">Shiqing Ma</a> and Prof. <a href="https://people.cs.rutgers.edu/~dnm/">Dimitris N. Metaxas</a>. Previously, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI.</p>
+  <p class="research-interests"><strong>Research interests</strong> Large language models, reinforcement learning, and agent reasoning.</p>
 
-  <div class="hero-details">
-    <p class="hero-bio">I obtained my PhD in the <a href="https://www.cs.rutgers.edu/">Computer Science Department</a> at <a href="https://www.rutgers.edu/">Rutgers University</a>, advised by Prof. <a href="https://people.cs.umass.edu/~shiqingma/">Shiqing Ma</a> and Prof. <a href="https://people.cs.rutgers.edu/~dnm/">Dimitris N. Metaxas</a>. Previously, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI.</p>
-    <p class="research-interests"><strong>Research interests</strong> Large language models, reinforcement learning, and agent reasoning.</p>
-
-    <ul class="profile-links" aria-label="Contact and profiles">
-      <li><a href="mailto:{{ site.author.email | escape }}">Email</a></li>
-      <li><a href="{{ site.author.googlescholar | escape }}">Google Scholar</a></li>
-      <li><a href="{{ '/Zhenting_CV.pdf' | relative_url }}">CV</a></li>
-      <li><a href="https://github.com/{{ site.author.github | escape }}">GitHub</a></li>
-      <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}">LinkedIn</a></li>
-      <li><a href="https://twitter.com/{{ site.author.twitter | escape }}">X / Twitter</a></li>
-    </ul>
-  </div>
+  <ul class="profile-links" aria-label="Contact and profiles">
+    <li><a href="mailto:{{ site.author.email | escape }}">Email</a></li>
+    <li><a href="{{ site.author.googlescholar | escape }}">Google Scholar</a></li>
+    <li><a href="{{ '/Zhenting_CV.pdf' | relative_url }}">CV</a></li>
+    <li><a href="https://github.com/{{ site.author.github | escape }}">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}">LinkedIn</a></li>
+    <li><a href="https://twitter.com/{{ site.author.twitter | escape }}">X / Twitter</a></li>
+  </ul>
 </section>
 
 <section class="home-section" id="news" aria-labelledby="news-heading">
