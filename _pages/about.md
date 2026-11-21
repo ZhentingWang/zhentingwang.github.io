@@ -47,7 +47,7 @@ redirect_from:
 
 * [K2-Horizon: A Frontier Fleet of Open Source Language Models](https://arxiv.org/pdf/2611.21003v1)<br>
 K2-Horizon Team<br>
-**Technical Report, 2026**<br>
+**IFM Technical Report, 2026**<br>
 Core contributor to post-training ML and infrastructure, post-training data, and evaluation
 
 * [On Turn-Level Best-of-N Sampling for Scaling LLM Agents](https://arxiv.org/abs/2611.06868)<br>
