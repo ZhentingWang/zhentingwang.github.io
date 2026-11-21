@@ -20,7 +20,7 @@ redirect_from:
 
   <div class="hero-bio">
     <p>I am a Research Scientist at the Institute of Foundation Models (IFM), where I work on post-training the K2 series of open-weight foundation models. I am a core contributor to <a href="https://ifm.ai/k2/">K2 Horizon</a>, a family of six models that includes the flagship 375B-A23B mixture-of-experts model.</p>
-    <p>For K2 Horizon, I ran the production reinforcement learning (RL) training and drove the design and implementation of the RL recipe and training infrastructure. I also contributed to mid-training and RL data, especially for agentic capabilities.</p>
+    <p>For K2 Horizon, I ran the production reinforcement learning (RL) training and drove the design and implementation of the RL recipe and training infrastructure. I also contributed to mid-training, RL data, and evaluation, especially for agentic capabilities.</p>
     <p>Before joining IFM, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI. I earned my PhD in computer science at Rutgers University.</p>
   </div>
   <p class="research-interests"><strong>Research interests</strong> Large language models, reinforcement learning, and agent reasoning.</p>
@@ -43,13 +43,20 @@ redirect_from:
 
 <div class="publication-content" markdown="1">
 
-* [Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/pdf/2603.04257)<br>
-**Zhenting Wang**, Huancheng Chen, Jiayun Wang, Wei Wei (Preprint)
+### Post-training / RL
 
-* [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)<br>
-**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow<br>
-International Conference on Learning Representations 2026 (**ICLR 2026**)<br>
-Also in NeurIPS 2025 Workshop on Scaling Environments for Agents
+* [K2-Horizon: A Frontier Fleet of Open Source Language Models](https://arxiv.org/pdf/2611.21003v1)<br>
+K2-Horizon Team<br>
+**IFM Technical Report, 2026**<br>
+Core contributor to post-training ML and infrastructure, post-training data, and evaluation
+
+* [On Turn-Level Best-of-N Sampling for Scaling LLM Agents](https://arxiv.org/abs/2611.06868)<br>
+Jalaj Bhandari\*, Dhawal Gupta\*, Hongli Zhan\*, **Zhenting Wang**, Varad Pimpalkhute, Zhengzhong Liu, Eric Xing, Rupesh Srivastava (\* equal contribution)<br>
+**Preprint, 2026** [arXiv](https://arxiv.org/abs/2611.06868)
+
+* [Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/pdf/2603.04257)<br>
+**Zhenting Wang**, Huancheng Chen, Jiayun Wang, Wei Wei<br>
+**Technical Report**
 
 * [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)<br>
 **Zhenting Wang**, Guofeng Cui, Yu-Jhe Li, Kun Wan, Wentian Zhao<br>
@@ -59,16 +66,53 @@ ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Mod
 Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)<br>
 Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<span class="publication-note">HuggingFace Daily Paper Top1, 200+ citations within 12 months from the release.</span>**)
 
+* [EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/pdf/2509.22576)<br>
+Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai Mei, Kun Wan, Dimitris N. Metaxas (Preprint)
+
+* [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://arxiv.org/abs/2609.04010)<br>
+Subham Sekhar Sahoo, Lingjie Chen, Khiem Pham, Jonathan Geuter, Chaitanya Dwivedi, Varad Pimpalkhute, Yash Akhauri, Alexander Moreno, Mikhail Yurochkin, **Zhenting Wang**, Mostafa Elhoushi, Nolan Dey, Shane Bergsma, Joel Hestness, John Thickstun, Eric Xing, Zhengzhong Liu<br>
+**Preprint, 2026**
+
+* [SLIM-RL: Risk-Budgeted Random-Masking RL for Diffusion LLMs Without Trajectory Slicing](https://arxiv.org/abs/2607.00208)<br>
+Ruikang Zhao, **Zhenting Wang**, Han Gao, Ligong Han<br>
+**Preprint, 2026**
+
+* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)<br>
+Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang<br>
+International Conference on Machine Learning 2025 (**ICML 2025**)
+
+### Agent Data
+
+* [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)<br>
+**Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow<br>
+International Conference on Learning Representations 2026 (**ICLR 2026**)<br>
+Also in NeurIPS 2025 Workshop on Scaling Environments for Agents
+
 * [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)<br>
 **Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain<br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <span class="publication-note">Highlight, Top 2.9%</span>**)
 
+* [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)<br>
+Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
+International Conference on Learning Representations 2025 (**ICLR 2025**)
+
+* [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://arxiv.org/abs/2605.20833)<br>
+Wujiang Xu, Yu Wang, Kai Mei, Kaiqu Liang, **Zhenting Wang**, Mingyu Jin, Han Zhang, Shi-Xiong Zhang, Wenyue Hua, Sambit Sahu, Dimitris N. Metaxas<br>
+**Preprint, 2026**
+
+* [M<sup>3</sup>-Bench: Multi-Modal, Multi-Hop, Multi-Threaded Tool-Using MLLM Agent Benchmark](https://arxiv.org/abs/2511.17729)<br>
+Yang Zhou, Mingyu Zhao, **Zhenting Wang**, Difei Gu, Bangwei Guo, Ruosong Ye, Ligong Han, Can Jin, Dimitris N. Metaxas<br>
+**Preprint, 2025**
+
+* [SHIELD: A Benchmark Study on Zero-Shot Detection of AI-Edited Images with Vision Language Models](https://openreview.net/pdf?id=hEZPVTDXCy)<br>
+Siyuan Cheng, Hanxi Guo, **Zhenting Wang**, Xiangyu Zhang, Lingjuan Lyu<br>
+**NeurIPS 2025 Workshop on Generative and Protective AI for Content Creation**
+
+### Other Research
+
 * [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)<br>
 **Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu<br>
 International Conference on Machine Learning 2025 (**ICML 2025**)
-
-* [EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/pdf/2509.22576)<br>
-Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai Mei, Kun Wan, Dimitris N. Metaxas (Preprint)
 
 * [A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](https://arxiv.org/pdf/2605.08504)<br>
 Zeru Shi, **Zhenting Wang**, Fan Yang, Qifan Wang, Ruixiang Tang<br>
@@ -90,17 +134,9 @@ International Conference on Learning Representations 2025 (**ICLR 2025**)
 Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas<br>
 International Conference on Machine Learning 2025 (**ICML 2025**)
 
-* [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)<br>
-Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang<br>
-International Conference on Machine Learning 2025 (**ICML 2025**)
-
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)<br>
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang<br>
 Conference on Language Modeling 2024 (**COLM 2024**)
-
-* [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)<br>
-Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
-International Conference on Learning Representations 2024 (**ICLR 2025**)
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)<br>
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma<br>

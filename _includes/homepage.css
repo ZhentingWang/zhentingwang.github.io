@@ -168,6 +168,14 @@ h2 { font-size: clamp(2.35rem, 6vw, 3.05rem); }
 .section-heading h2 { margin: 0; }
 .section-heading > a { font-size: 0.875rem; font-weight: 600; }
 
+.publication-content > h3 {
+  margin: 1.75rem 0 0.15rem;
+  font-size: 1.15rem;
+  line-height: 1.35;
+}
+
+.publication-content > h3:first-child { margin-top: 0.4rem; }
+
 .publication-content > ul {
   list-style: none;
   padding: 0;
