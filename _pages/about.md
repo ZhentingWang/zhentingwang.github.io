@@ -52,7 +52,7 @@ Core contributor to post-training ML and infrastructure, post-training data, and
 
 * [On Turn-Level Best-of-N Sampling for Scaling LLM Agents](https://arxiv.org/abs/2611.06868)<br>
 Jalaj Bhandari\*, Dhawal Gupta\*, Hongli Zhan\*, **Zhenting Wang**, Varad Pimpalkhute, Zhengzhong Liu, Eric Xing, Rupesh Srivastava (\* equal contribution)<br>
-**Preprint, 2026**
+**IFM Technical Report, 2026**
 
 * [Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/pdf/2603.04257)<br>
 **Zhenting Wang**, Huancheng Chen, Jiayun Wang, Wei Wei<br>
