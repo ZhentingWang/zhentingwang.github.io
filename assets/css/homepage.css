@@ -134,6 +134,9 @@ h2 { font-size: clamp(2.35rem, 6vw, 3.05rem); }
   margin: 1.55rem 0 0;
 }
 
+.hero-bio p { margin: 0; }
+.hero-bio p + p { margin-top: 0.75rem; }
+
 .research-interests { margin: 0.85rem 0 0; }
 .research-interests strong { margin-inline-end: 0.35em; font-weight: 700; }
 

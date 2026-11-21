@@ -18,7 +18,11 @@ redirect_from:
     <img class="hero-avatar" src="{{ '/images/homepage-avatar.jpg' | relative_url }}" width="1024" height="1024" alt="Illustrated portrait of {{ site.author.name | escape }}">
   </div>
 
-  <p class="hero-bio">I obtained my PhD in the <a href="https://www.cs.rutgers.edu/">Computer Science Department</a> at <a href="https://www.rutgers.edu/">Rutgers University</a>, advised by Prof. <a href="https://people.cs.umass.edu/~shiqingma/">Shiqing Ma</a> and Prof. <a href="https://people.cs.rutgers.edu/~dnm/">Dimitris N. Metaxas</a>. Previously, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI.</p>
+  <div class="hero-bio">
+    <p>I am a Research Scientist at the Institute of Foundation Models (IFM), where I work on post-training the K2 series of open-weight foundation models. I am a core contributor to <a href="https://ifm.ai/k2/">K2 Horizon</a>, a family of six models that includes the flagship 375B-A23B mixture-of-experts model.</p>
+    <p>For K2 Horizon, I ran the production reinforcement learning (RL) training and drove the design and implementation of the RL recipe and training infrastructure. I also contributed to mid-training and RL training data.</p>
+    <p>Before joining IFM, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI. I earned my PhD in <a href="https://www.cs.rutgers.edu/">computer science</a> at <a href="https://www.rutgers.edu/">Rutgers University</a>, advised by <a href="https://people.cs.umass.edu/~shiqingma/">Shiqing Ma</a> and <a href="https://people.cs.rutgers.edu/~dnm/">Dimitris N. Metaxas</a>.</p>
+  </div>
   <p class="research-interests"><strong>Research interests</strong> Large language models, reinforcement learning, and agent reasoning.</p>
 
   <ul class="profile-links" aria-label="Contact and profiles">
