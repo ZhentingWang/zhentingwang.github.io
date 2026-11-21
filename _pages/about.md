@@ -107,6 +107,10 @@ Yang Zhou, Mingyu Zhao, **Zhenting Wang**, Difei Gu, Bangwei Guo, Ruosong Ye, Li
 
 ### Other Research
 
+* [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687)<br>
+Hanrong Zhang, Shicheng Fan, Henry Peng Zou, Yankai Chen, **Zhenting Wang**, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu<br>
+**COLM 2026**
+
 * [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)<br>
 **Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu<br>
 **ICML 2025**
