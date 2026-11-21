@@ -28,7 +28,6 @@ redirect_from:
   <ul class="profile-links" aria-label="Contact and profiles">
     <li><a href="mailto:{{ site.author.email | escape }}">Email</a></li>
     <li><a href="{{ site.author.googlescholar | escape }}">Google Scholar</a></li>
-    <li><a href="{{ '/Zhenting_CV.pdf' | relative_url }}">CV</a></li>
     <li><a href="https://github.com/{{ site.author.github | escape }}">GitHub</a></li>
     <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}">LinkedIn</a></li>
     <li><a href="https://twitter.com/{{ site.author.twitter | escape }}">X / Twitter</a></li>
