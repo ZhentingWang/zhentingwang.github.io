@@ -47,7 +47,7 @@ redirect_from:
 
 * [K2-Horizon: A Frontier Fleet of Open Source Language Models](https://arxiv.org/pdf/2611.21003v1)<br>
 K2-Horizon Team<br>
-**IFM Technical Report, 2026**<br>
+**Technical Report, 2026**<br>
 Core contributor to post-training ML and infrastructure, post-training data, and evaluation
 
 * [On Turn-Level Best-of-N Sampling for Scaling LLM Agents](https://arxiv.org/abs/2611.06868)<br>
@@ -56,15 +56,15 @@ Jalaj Bhandari\*, Dhawal Gupta\*, Hongli Zhan\*, **Zhenting Wang**, Varad Pimpal
 
 * [Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory](https://arxiv.org/pdf/2603.04257)<br>
 **Zhenting Wang**, Huancheng Chen, Jiayun Wang, Wei Wei<br>
-**Technical Report**
+**Technical Report, 2026**
 
 * [DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](https://arxiv.org/pdf/2504.09710)<br>
 **Zhenting Wang**, Guofeng Cui, Yu-Jhe Li, Kun Wan, Wentian Zhao<br>
-ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Models
+**ICLR 2026 Workshop** · Navigating and Addressing Data Problems for Foundation Models
 
 * [Token-Budget-Aware LLM Reasoning](https://arxiv.org/pdf/2412.18547)<br>
-Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (Preprint, **\* indicates equal contribution**)<br>
-Annual Meeting of the Association for Computational Linguistics 2025 (**ACL 2025** Findings, **<span class="publication-note">HuggingFace Daily Paper Top1, 200+ citations within 12 months from the release.</span>**)
+Tingxu Han\*, **Zhenting Wang**\*, Chunrong Fang, Shiyu Zhao, Shiqing Ma, Zhenyu Chen (\* equal contribution)<br>
+**ACL 2025 Findings** · <span class="publication-note">HuggingFace Daily Paper Top1, 200+ citations within 12 months from the release.</span>
 
 * [EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/pdf/2509.22576)<br>
 Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai Mei, Kun Wan, Dimitris N. Metaxas<br>
@@ -76,26 +76,26 @@ Subham Sekhar Sahoo, Lingjie Chen, Khiem Pham, Jonathan Geuter, Chaitanya Dwived
 
 * [SLIM-RL: Risk-Budgeted Random-Masking RL for Diffusion LLMs Without Trajectory Slicing](https://arxiv.org/abs/2607.00208)<br>
 Ruikang Zhao, **Zhenting Wang**, Han Gao, Ligong Han<br>
-**COLM 2026 Workshop NonAR-LM**
+**COLM 2026 Workshop** · NonAR-LM
 
 * [ProSec: Fortifying Code LLMs with Proactive Security Alignment](https://arxiv.org/pdf/2411.12882)<br>
 Xiangzhe Xu, Zian Su, Jinyao Guo, Kaiyuan Zhang, **Zhenting Wang**, Xiangyu Zhang<br>
-International Conference on Machine Learning 2025 (**ICML 2025**)
+**ICML 2025**
 
 ### Agent Data
 
 * [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/pdf/2508.20453)<br>
 **Zhenting Wang**, Qi Chang, Hemani Patel, Shashank Biju, Cheng-En Wu, Quan Liu, Aolin Ding, Alireza Rezazadeh, Ankit Shah, Yujia Bao, Eugene Siow<br>
-International Conference on Learning Representations 2026 (**ICLR 2026**)<br>
-Also in NeurIPS 2025 Workshop on Scaling Environments for Agents
+**ICLR 2026**<br>
+**NeurIPS 2025 Workshop** · Scaling Environments for Agents
 
 * [MLLM-as-a-Judge for Image Safety without Human Labeling](https://arxiv.org/pdf/2501.00192)<br>
 **Zhenting Wang**, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, Nan Jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain<br>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025 <span class="publication-note">Highlight, Top 2.9%</span>**)
+**CVPR 2025 Highlight** · <span class="publication-note">Top 2.9%</span>
 
 * [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/pdf/2410.02644)<br>
 Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, **Zhenting Wang**, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang<br>
-International Conference on Learning Representations 2025 (**ICLR 2025**)
+**ICLR 2025**
 
 * [MemGym: a Long-Horizon Memory Environment for LLM Agents](https://arxiv.org/abs/2605.20833)<br>
 Wujiang Xu, Yu Wang, Kai Mei, Kaiqu Liang, **Zhenting Wang**, Mingyu Jin, Han Zhang, Shi-Xiong Zhang, Wenyue Hua, Sambit Sahu, Dimitris N. Metaxas<br>
@@ -109,35 +109,35 @@ Yang Zhou, Mingyu Zhao, **Zhenting Wang**, Difei Gu, Bangwei Guo, Ruosong Ye, Li
 
 * [Evaluating and Mitigating IP Infringement in Visual Generative AI](https://arxiv.org/pdf/2406.04662)<br>
 **Zhenting Wang**, Chen Chen, Vikash Sehwag, Minzhou Pan, Lingjuan Lyu<br>
-International Conference on Machine Learning 2025 (**ICML 2025**)
+**ICML 2025**
 
 * [A Single Layer to Explain Them All: Understanding Massive Activations in Large Language Models](https://arxiv.org/pdf/2605.08504)<br>
 Zeru Shi, **Zhenting Wang**, Fan Yang, Qifan Wang, Ruixiang Tang<br>
-International Conference on Machine Learning 2026 (**ICML 2026**)
+**ICML 2026**
 
 * [Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/pdf/2412.00556)<br>
 Shiyu Zhao, **Zhenting Wang**, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu<br>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**)
+**CVPR 2025**
 
 * [Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?](https://arxiv.org/pdf/2404.07066.pdf)<br>
-Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang
-International Conference on Computational Linguistics 2025 (**COLING 2025**)
+Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, **Zhenting Wang**, Wenyue Hua, Haiyan Zhao, Kai Mei, Yanda Meng, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng Zhang<br>
+**COLING 2025**
 
 * [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)<br>
 Guangyan Sun, Mingyu Jin, **Zhenting Wang**, Cheng-Long Wang, Siqi Ma, Qifan Wang, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu<br>
-International Conference on Learning Representations 2025 (**ICLR 2025**)
+**ICLR 2025**
 
 * [The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models Via Visual Information Steering](https://arxiv.org/abs/2502.03628)<br>
 Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, **Zhenting Wang**, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, Dimitris N. Metaxas<br>
-International Conference on Machine Learning 2025 (**ICML 2025**)
+**ICML 2025**
 
 * [ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v1.full.pdf)<br>
 Mingyu Jin, Haochen Xue, **Zhenting Wang**, Boming Kang, Ruosong Ye, Kaixiong Zhou, Mengnan Du, Yongfeng Zhang<br>
-Conference on Language Modeling 2024 (**COLM 2024**)
+**COLM 2024**
 
 * [UNICORN: A Unified Backdoor Trigger Inversion Framework](https://arxiv.org/abs/2304.02786)<br>
 **Zhenting Wang**, Kai Mei, Juan Zhai, Shiqing Ma<br>
-International Conference on Learning Representations 2023 (**ICLR 2023 <span class="publication-note">Spotlight, Top 5.7%</span>**)
+**ICLR 2023 Spotlight** · <span class="publication-note">Top 5.7%</span>
 
 </div>
 </section>
