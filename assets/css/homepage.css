@@ -164,39 +164,11 @@ h2 { font-size: clamp(2.35rem, 6vw, 3.05rem); }
 .section-heading h2 { margin: 0; }
 .section-heading > a { font-size: 0.875rem; font-weight: 600; }
 
-.news-list,
 .publication-content > ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-
-.news-list li {
-  display: grid;
-  grid-template-columns: 5.25rem minmax(0, 1fr);
-  gap: 0.7rem;
-  align-items: baseline;
-  padding-block: 0.32rem;
-}
-
-.news-list time {
-  color: var(--muted);
-  font-size: 0.875rem;
-  font-variant-numeric: tabular-nums;
-}
-
-.news-archive { margin-top: 0.65rem; }
-.news-archive[open] ul { margin-top: 0.5rem; }
-
-.news-archive summary {
-  width: fit-content;
-  color: var(--accent);
-  cursor: pointer;
-  font-size: 0.875rem;
-  font-weight: 700;
-}
-
-.news-archive summary:hover { text-decoration: underline; }
 
 .publication-content li {
   padding-block: 0.95rem;
@@ -220,14 +192,6 @@ h2 { font-size: clamp(2.35rem, 6vw, 3.05rem); }
 
 .publication-content li a:first-child:hover { text-decoration: underline; }
 .publication-content .publication-note { color: var(--accent); }
-
-.service-content ul {
-  margin: 0;
-  padding-inline-start: 1.2rem;
-}
-
-.service-content li + li { margin-top: 0.35rem; }
-.service-content li::marker { color: var(--accent); }
 
 .site-footer {
   padding-block: 1.4rem 2.15rem;

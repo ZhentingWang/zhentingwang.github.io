@@ -31,75 +31,6 @@ redirect_from:
   </ul>
 </section>
 
-<section class="home-section" id="news" aria-labelledby="news-heading">
-  <h2 id="news-heading">News</h2>
-
-  <ul class="news-list">
-    <li><time datetime="2026-07">Jul 2026</time><span>2 papers are accepted to COLM 2026.</span></li>
-    <li><time datetime="2026-06">Jun 2026</time><span>1 paper is accepted to ECCV 2026.</span></li>
-    <li><time datetime="2026-04">Apr 2026</time><span>1 paper is accepted to ICML 2026.</span></li>
-    <li><time datetime="2026-04">Apr 2026</time><span>2 papers are accepted to ACL 2026.</span></li>
-    <li><time datetime="2026-01">Jan 2026</time><span>2 papers are accepted to ICLR 2026.</span></li>
-  </ul>
-
-  <details class="news-archive">
-    <summary>Earlier updates</summary>
-    <ul class="news-list">
-      <li><time datetime="2025-09">Sep 2025</time><span>1 last-authored paper is accepted to NeurIPS 2025.</span></li>
-      <li><time datetime="2025-05">May 2025</time><span>2 papers are accepted to ACL 2025.</span></li>
-      <li><time datetime="2025-05">May 2025</time><span>3 papers are accepted to ICML 2025.</span></li>
-      <li><time datetime="2025-03">Mar 2025</time><span>I am co-organizing the <a href="https://icml2025digbugs.github.io/">Data for Generative Models</a> workshop at ICML 2025.</span></li>
-      <li><time datetime="2025-02">Feb 2025</time><span>4 papers are accepted to CVPR 2025 (1 Highlight).</span></li>
-      <li><time datetime="2025-01">Jan 2025</time><span>3 papers are accepted to ICLR 2025.</span></li>
-      <li><time datetime="2025-01">Jan 2025</time><span>3 papers are accepted to NAACL 2025.</span></li>
-    </ul>
-  </details>
-</section>
-
-<!--News
-======
-* [2024-11] I am invited as a reviewer of CVPR 2025.
-* [2024-10] I am invited as a reviewer of WWW 2025.
-* [2024-10] I am invited as a reviewer of AISTATS 2025.
-* [2024-09] 1 paper is accepted to S&P (Oakland) 2025. Congrates to Boheng!
-* [2024-08] 1 paper is accepted to ACSAC 2024.
-* [2024-08] I am invited as a reviewer of ICLR 2025.
-* [2024-07] I am invited as a reviewer of AAAI 2025.
-* [2024-07] 1 paper is accepted to COLM 2024. Congrates to Mingyu and Haochen!
-* [2024-07] 1 paper is accepted to ECCV 2024. Congrates to Minzhou!
-* [2024-05] I am invited as a reviewer of NeurIPS 2024.
-* [2024-05] 1 paper is accepted to ICML 2024.
-* [2024-04] I am invited as a reviewer of NeurIPS 2024 Dataset and Benchmark Track.
-* [2024-01] 1 paper is accepted to ICLR 2024.
-* [2024-01] I am invited as a reviewer of ECCV 2024.
-* [2023-12] I am invited as a reviewer of ICML 2024.
-* [2023-11] I am invited as a reviewer of ACM TKDD.
-* [2023-10] I am invited as a reviewer of CVPR 2024.
-* [2023-09] 1 paper is accepted to NeurIPS 2023.
-* [2023-09] I am invited as a reviewer of NeurIPS 2023 BUGS.
-* [2023-09] I am invited as a reviewer of SDM 2024.
-* [2023-08] I am invited as a reviewer of ICLR 2024.
-* [2023-07] 1 paper is accepted to S&P (Oakland) 2024.
-* [2023-06] I am invited as a reviewer of IEEE TIFS.
-* [2023-05] 1 paper is accepted to ACL 2023.
-* [2023-03] I am invited as a reviewer of NeurIPS 2023.
-* [2023-02] Received the ICLR 2023 Financial Assistance Award.
-* [2023-02] I am invited as a reviewer of ICCV 2023.
-* [2023-02] I will be an AI Research Intern at Sony AI for summer 2023 working with [Dr. Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home).
-* [2023-01] 1 paper is selected as the <font color=red>spotlight</font> by ICLR 2023.
-* [2023-01] I am invited as a program committee member (reviewer) of IJCAI 2023.
-* [2022-12] I am invited as a reviewer of ICML 2023.
-* [2022-12] I am invited as a program committee member (reviewer) of KDD 2023.
-* [2022-12] I am invited as a reviewer of ICLR 2023 BANDS.
-* [2022-11] I am invited as a reviewer of CVPR 2023.
-* [2022-10] Received the NeurIPS 2022 Scholar Award.
-* [2022-09] 2 papers are accepted to NeurIPS 2022.
-* [2022-03] I am invited as a reviewer of NeurIPS 2022.
-* [2022-03] 2 papers are accepted to CVPR 2022.
-* [2022-01] I am invited as a reviewer of ICML 2022.
-* [2022-01] I am invited as a member of USENIX Security 2022 Artifact Evaluation Committee.
-* [2021-11] I am invited as a reviewer of CVPR 2022.-->
-
 <section class="home-section" id="publications" aria-labelledby="publications-heading">
   <div class="section-heading">
     <h2 id="publications-heading">Selected Publications</h2>
@@ -350,39 +281,6 @@ IEEE International Conference on Image Processing 2022 (**ICIP 2022**)
 * [CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes](https://dl.acm.org/doi/abs/10.1145/3394171.3413945)  
 Wei Li, **Zhenting Wang**, Xiao Wu, Ji Zhang, Qiang Peng, Hongliang Li  
 Proceedings of the 28th ACM International Conference on Multimedia (**MM 2020 Oral**)-->
-
-<section class="home-section" id="service" aria-labelledby="service-heading">
-  <h2 id="service-heading">Service</h2>
-<div class="service-content" markdown="1">
-
-* Co-organizer, Data in Generative Models Workshop @ ICML 2025
-* Reviewer, International Conference on Learning Representations (ICLR), 2024, 2025, 2026
-* Reviewer, International Conference on Machine Learning (ICML), 2022, 2023, 2024, 2025, 2026
-* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2022, 2023, 2024, 2025, 2026
-* Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024, 2025, 2026
-* Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV), 2023, 2025
-* Reviewer, European Conference on Computer Vision (ECCV), 2024, 2026
-* Reviewer, ACL Rolling Review (ARR), 2025, 2026
-* Reviewer, International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
-* Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
-* Reviewer, International World Wide Web Conference (WWW), 2025
-* Reviewer, Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
-* Reviewer, International Joint Conference on Artificial Intelligence (IJCAI), 2023
-* Reviewer, SIAM International Conference on Data Mining (SDM), 2024
-* Reviewer, NeurIPS Dataset and Benchmark Track, 2024
-* Reviewer, Backdoor Attacks and Defenses in Machine Learning Workshop (BANDS) at ICLR 2023
-* Reviewer, Backdoors in Deep Learning - The Good, the Bad, and the Ugly (BUGS) at NeurIPS 2023
-* Reviewer, Proceedings of the National Academy of Sciences Nexus (PNAS Nexus)
-* Reviewer, IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-* Reviewer, IEEE Transactions on Information Forensics & Security (IEEE TIFS)
-* Reviewer, IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
-* Reviewer, ACM Transactions on Knowledge Discovery from Data (ACM TKDD)
-* Artifact Evaluation Committee, USENIX Security Symposium, 2022
-* Sub-reviewer, ACM Conference on Computer and Communications Security (CCS), 2022, 2023, 2024
-* Sub-reviewer, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
-
-</div>
-</section>
 
 <!--Teaching
 ======
