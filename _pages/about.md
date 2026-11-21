@@ -72,7 +72,7 @@ Wujiang Xu, Wentian Zhao, **Zhenting Wang**, Yu-Jhe Li, Can Jin, Mingyu Jin, Kai
 
 * [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](https://arxiv.org/abs/2609.04010)<br>
 Subham Sekhar Sahoo, Lingjie Chen, Khiem Pham, Jonathan Geuter, Chaitanya Dwivedi, Varad Pimpalkhute, Yash Akhauri, Alexander Moreno, Mikhail Yurochkin, **Zhenting Wang**, Mostafa Elhoushi, Nolan Dey, Shane Bergsma, Joel Hestness, John Thickstun, Eric Xing, Zhengzhong Liu<br>
-**Preprint, 2026**
+**IFM Technical Report, 2026**
 
 * [SLIM-RL: Risk-Budgeted Random-Masking RL for Diffusion LLMs Without Trajectory Slicing](https://arxiv.org/abs/2607.00208)<br>
 Ruikang Zhao, **Zhenting Wang**, Han Gao, Ligong Han<br>
