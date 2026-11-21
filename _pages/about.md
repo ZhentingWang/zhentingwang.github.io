@@ -20,7 +20,7 @@ redirect_from:
 
   <div class="hero-bio">
     <p>I am a Research Scientist at the Institute of Foundation Models (IFM), where I work on post-training the K2 series of open-weight foundation models. I am a core contributor to <a href="https://ifm.ai/k2/">K2 Horizon</a>, a family of six models that includes the flagship 375B-A23B mixture-of-experts model.</p>
-    <p>For K2 Horizon, I ran the production reinforcement learning (RL) training and drove the design and implementation of the RL recipe and training infrastructure. I also contributed to mid-training, RL data, and evaluation, especially for agentic capabilities.</p>
+    <p>I ran the large-scale reinforcement learning (RL) training for the K2 Horizon model release and drove the design and implementation of the RL recipe and training infrastructure. I also contributed to mid-training, RL data, and evaluation, especially for agentic capabilities.</p>
     <p>Before joining IFM, I was a senior manager-level researcher at Accenture’s Center for Advanced AI, a research scientist intern at Meta GenAI, and a research intern at Sony AI. I earned my PhD in computer science at Rutgers University.</p>
   </div>
   <p class="research-interests"><strong>Research interests</strong> Large language models, reinforcement learning, and agent reasoning.</p>
